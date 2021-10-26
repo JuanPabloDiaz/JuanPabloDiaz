@@ -20,24 +20,6 @@
 My name is Juan Diaz, I am from Colombia and I recently moved to Asheville, NC.
 I am passionate about Full stack Web Development and had completed an A.A.S in Web Technologies at CPCC. I enjoys developing new skills in front-end and back-end development. I have a couple of year of experience as a Service Desk Analyst. I am looking forward to start working with a Startup company that allows for professional and personal growth. I value discipline, loyalty, reliability, and self-motivation above all else.</p>
 </div>
-<style>
-
-h1 {
-  color: red;
-  animation: myanimation 2s infinite;
-}
-
-@keyframes myanimation {
-  from {
-    color: red;
-  }
-  to {
-    color: yellow;
-  }
-}
-</style>
-
-<h1>Hello world!</h1>
 
 <div>
     <h3>Skills</h3>
