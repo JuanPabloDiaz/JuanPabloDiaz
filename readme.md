@@ -19,11 +19,32 @@
   <h2 align="center">Hello</h2>
   <p align="justify">
 My name is Juan Diaz, I am from Colombia and I recently moved to Asheville, NC.
-I am passionate about Full stack Web Development and had completed an A.A.S in Web Technologies at CPCC. I enjoys developing new skills in front-end and back-end development. I have a couple of year of experience in the IT field as a service analyst. I am looking forward to start working with a Startup company that allows for professional and personal growth. I value discipline, loyalty, reliability, and self-motivation above all else.</p>
+I am passionate about Full stack Web Development and had completed an A.A.S in Web Technologies at CPCC. I enjoys developing new skills in front-end and back-end development. I have a couple of year of experience as a Service Desk Analyst. I am looking forward to start working with a Startup company that allows for professional and personal growth. I value discipline, loyalty, reliability, and self-motivation above all else.</p>
 </div>
-
-
-
+<div>
+    <h3>Skills</h3>
+    <ul>
+        <li>Problem solving skills</li>
+        <li>Critical thinking</li>
+        <li>Time Management</li>
+        <li>Disciplined</li>
+        <li>Detail-oriented</li>
+        <li>Customer Service</li>
+        <li>Adaptability</li>
+        <li>Bilingual</li>
+    <ul>
+</div>
+<div>
+    <h3>Current Job Description</h3>
+    <ul>
+        <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
+        <li>Provides remote assistance with software deployment, and system configuration.</li>
+        <li>Effectively communicate with a variety of departments.</li>
+        <li>Proactively investigate and resolve end user problems/complications. </li>
+        <li>Adaptability to multiple enterprise environments.Following a process oriented approach. </li>
+        <li>Utilizes problem solving skills to find solutions to unusual issues. </li>
+    </ul>
+</div>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -35,18 +56,6 @@ I am passionate about Full stack Web Development and had completed an A.A.S in W
         <li><a href="#portfolio">Portfolio</a></li>
         <li><a href="#web-page">Web Page</a></li>
       </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Skills</a>
-      <ul>
-        <li><a href="#skills">Critical thinking, problem solving skills</a></li>
-        <li><a href="#usage">Usage</a></li>
-        <li><a href="#roadmap">Roadmap</a></li>
-        <li><a href="#contributing">Contributing</a></li>
-        <li><a href="#license">License</a></li>
-        <li><a href="#contact">Contact</a></li>
-        <li><a href="#acknowledgments">Acknowledgments</a></li>
-       <ul>
     </li>
   </ol>
 </details>
