@@ -17,7 +17,7 @@
   </a>
 
   <h2 align="center">Hello</h2>
-  <p align="center">
+  <p align="justify">
 My name is Juan Diaz, I am from Colombia and I recently moved to Asheville, NC.
 I am passionate about Full stack Web Development and had completed an A.A.S in Web Technologies at CPCC. I enjoys developing new skills in front-end and back-end development. I have a couple of year of experience in the IT field as a service analyst. I am looking forward to start working with a Startup company that allows for professional and personal growth. I value discipline, loyalty, reliability, and self-motivation above all else.</p>
 </div>
@@ -29,24 +29,25 @@ I am passionate about Full stack Web Development and had completed an A.A.S in W
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Most Recent Projects</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#home-server">Home Server</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#web-page">Web Page</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Skills</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+        <li><a href="#skills">Critical thinking, problem solving skills</a></li>
+        <li><a href="#usage">Usage</a></li>
+        <li><a href="#roadmap">Roadmap</a></li>
+        <li><a href="#contributing">Contributing</a></li>
+        <li><a href="#license">License</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a href="#acknowledgments">Acknowledgments</a></li>
+       <ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
