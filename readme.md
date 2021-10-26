@@ -66,10 +66,10 @@ I am passionate about Full stack Web Development and had completed an A.A.S in W
 ## Home Server
 
 <div>
-[Visit my GitHub repository](https://#)
+[Visit my GitHub repository](https://github.com/JuanPabloDiaz/SelfHosting-PiServer)
 
 <p>Visit my GitHub
-<a href="http:// " target="_blank " rel="noopener noreferrer "
+<a href="https://github.com/JuanPabloDiaz/SelfHosting-PiServer" target="_blank " rel="noopener noreferrer "
 >repository</a
 >
 to see all the source code for this project.
