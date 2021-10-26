@@ -16,7 +16,7 @@
     <img src="images/logo_JuanDiaz.PNG" alt="Logo" width="300" height="300">
   </a>
 
-  <h2 align="center">Hello</h2>
+  <h2 align="center">Hello 👋</h2>
   <p align="justify">
 My name is Juan Diaz, I am from Colombia and I recently moved to Asheville, NC.
 I am passionate about Full stack Web Development and had completed an A.A.S in Web Technologies at CPCC. I enjoys developing new skills in front-end and back-end development. I have a couple of year of experience as a Service Desk Analyst. I am looking forward to start working with a Startup company that allows for professional and personal growth. I value discipline, loyalty, reliability, and self-motivation above all else.</p>
@@ -60,14 +60,21 @@ I am passionate about Full stack Web Development and had completed an A.A.S in W
   </ol>
 </details>
 
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!-- ABOUT THE PROJECT -->
 ## Home Server
 
-<div>
 [Visit my GitHub repository](https://github.com/JuanPabloDiaz/SelfHosting-PiServer)
 
+<div>
 <p>Visit my GitHub
 <a href="https://github.com/JuanPabloDiaz/SelfHosting-PiServer" target="_blank " rel="noopener noreferrer "
 >repository</a
@@ -99,7 +106,7 @@ This section list some of early projects while I was studing for my A.A.S in Web
 
 * [DACA](https://DACA.org/)
 * [One Page Web](https://reactjs.org/)
-* [](https:///)
+* [Portfolio](https:///)https://juanpablodiaz.github.io/
 * [](https:///)
 * [](https:///)
 * [](https:///)
@@ -132,7 +139,25 @@ dkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkha
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-### Installation
+### Template
+
+### Hi there 👋
+
+<!--
+✨ _special_ ✨
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
