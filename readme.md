@@ -24,14 +24,14 @@ I am passionate about Full stack Web Development and had completed an A.A.S in W
 <div>
     <h3>Skills</h3>
     <ul style="list-style-type:none;">
-        <p>✔️ Problem solving skills</p>
-        <p>✔️ Critical thinking</p>
+        <div>✔️ Problem solving skills</div>
+        <div>✔️ Critical thinking</div>
         <div>✔️ Time Management</div>
-        <li>✔️ Disciplined</li>
-        <li>✔️ Detail-oriented</li>
-        <li>✔️ Customer Service</li>
-        <li>:heavy_check_mark: Adaptability</li>
-        <li>:heavy_check_mark: Bilingual</li>
+        <div>✔️ Disciplined</div>
+        <div>✔️ Detail-oriented</div>
+        <div>✔️ Customer Service</div>
+        <div>:heavy_check_mark: Adaptability</div>
+        <div>:heavy_check_mark: Bilingual</div>
     <ul>
 </div>
 <div>
