@@ -24,9 +24,9 @@ I am passionate about Full stack Web Development and had completed an A.A.S in W
 <div>
     <h3>Skills</h3>
     <ul style="list-style-type:none;">
-        <P>✔️ Problem solving skills</P>
-        <P>✔️ Critical thinking</P>
-        <li>✔️ Time Management</li>
+        <p>✔️ Problem solving skills</p>
+        <p>✔️ Critical thinking</p>
+        <div>✔️ Time Management</div>
         <li>✔️ Disciplined</li>
         <li>✔️ Detail-oriented</li>
         <li>✔️ Customer Service</li>
