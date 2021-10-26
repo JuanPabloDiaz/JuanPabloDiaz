@@ -22,28 +22,25 @@ I am passionate about Full stack Web Development and had completed an A.A.S in W
 </div>
 
 <div>
-    <h3>Skills</h3>
-    <ul style="list-style-type:none;">
-        <div>✔️ Problem solving skills</div>
-        <div>✔️ Critical thinking</div>
-        <div>✔️ Time Management</div>
-        <div>✔️ Disciplined</div>
-        <div>✔️ Detail-oriented</div>
-        <div>✔️ Customer Service</div>
-        <div>:heavy_check_mark: Adaptability</div>
-        <div>:heavy_check_mark: Bilingual</div>
-    <ul>
-</div>
-<div>
-    <h3>Current Job Description</h3>
-    <ul>
-        <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
-        <li>Provides remote assistance with software deployment, and system configuration.</li>
-        <li>Effectively communicate with a variety of departments.</li>
-        <li>Proactively investigate and resolve end user problems/complications. </li>
-        <li>Adaptability to multiple enterprise environments.Following a process oriented approach. </li>
-        <li>Utilizes problem solving skills to find solutions to unusual issues. </li>
-    </ul>
+  <h3>Skills</h3>
+  <div>✔️ Problem solving skills</div>
+  <div>✔️ Critical thinking</div>
+  <div>✔️ Time Management</div>
+  <div>✔️ Disciplined</div>
+  <div>✔️ Detail-oriented</div>
+  <div>✔️ Customer Service</div>
+  <div>:heavy_check_mark: Adaptability</div>
+  <div>:heavy_check_mark: Bilingual</div>
+
+  <h3>Current Job Description</h3>
+  <ul>
+    <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
+    <li>Provides remote assistance with software deployment, and system configuration.</li>
+    <li>Effectively communicate with a variety of departments.</li>
+    <li>Proactively investigate and resolve end user problems/complications. </li>
+    <li>Adaptability to multiple enterprise environments.Following a process oriented approach. </li>
+    <li>Utilizes problem solving skills to find solutions to unusual issues. </li>
+  </ul>
 </div>
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -72,15 +69,8 @@ I am passionate about Full stack Web Development and had completed an A.A.S in W
 <!-- ABOUT THE PROJECT -->
 ## Home Server
 
-[Visit my GitHub repository](https://github.com/JuanPabloDiaz/SelfHosting-PiServer) to see all the source code for this project.
+:link: [Visit my GitHub repository](https://github.com/JuanPabloDiaz/SelfHosting-PiServer) to see all the source code for this project.
 
-<div>
-<p>Visit my GitHub :link:
-<a href="https://github.com/JuanPabloDiaz/SelfHosting-PiServer" target="_blank " rel="noopener noreferrer "
->repository</a
->
-to see all the source code for this project.
-</p>
 <p>
 The structure and documentation is saved on an HTML file, the
 design on a CSS file and the user's interface on a Javascript
@@ -94,7 +84,6 @@ private access services that are also runinng on the Raspberry:
 " target="_blank " rel="noopener noreferrer ">Homer</a>, <a href="https://pi-hole.net/ " target="_blank " rel="noopener noreferrer ">Pi-hole</a>, <a href="https://github.com/linuxserver/docker-qbittorrent " target="_blank " rel="noopener
 noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=linuxserver/jackett " target="_blank " rel="noopener noreferrer ">Jackett</a>…).
 </p>
-</div>
 
 <p align="right">(<a href="#top">⏫ back to top ⏫</a>)</p>
 
