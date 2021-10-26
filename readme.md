@@ -10,7 +10,6 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="#">
     <img src="images/logo_JuanDiaz.PNG" alt="Logo" width="300" height="300">
@@ -21,17 +20,18 @@
 My name is Juan Diaz, I am from Colombia and I recently moved to Asheville, NC.
 I am passionate about Full stack Web Development and had completed an A.A.S in Web Technologies at CPCC. I enjoys developing new skills in front-end and back-end development. I have a couple of year of experience as a Service Desk Analyst. I am looking forward to start working with a Startup company that allows for professional and personal growth. I value discipline, loyalty, reliability, and self-motivation above all else.</p>
 </div>
+
 <div>
     <h3>Skills</h3>
     <ul>
-        <li>Problem solving skills</li>
-        <li>Critical thinking</li>
-        <li>Time Management</li>
-        <li>Disciplined</li>
-        <li>Detail-oriented</li>
-        <li>Customer Service</li>
-        <li>Adaptability</li>
-        <li>Bilingual</li>
+        <li>✔️ Problem solving skills</li>
+        <li>✔️ Critical thinking</li>
+        <li>✔️ Time Management</li>
+        <li>✔️ Disciplined</li>
+        <li>✔️ Detail-oriented</li>
+        <li>✔️ Customer Service</li>
+        <li>✔️ Adaptability</li>
+        <li>✔️ Bilingual</li>
     <ul>
 </div>
 <div>
@@ -75,7 +75,7 @@ I am passionate about Full stack Web Development and had completed an A.A.S in W
 [Visit my GitHub repository](https://github.com/JuanPabloDiaz/SelfHosting-PiServer)
 
 <div>
-<p>Visit my GitHub
+<p>Visit my GitHub :link:
 <a href="https://github.com/JuanPabloDiaz/SelfHosting-PiServer" target="_blank " rel="noopener noreferrer "
 >repository</a
 >
@@ -96,7 +96,7 @@ noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=l
 </p>
 </div>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">⏫ back to top ⏫</a>)</p>
 
 
 
@@ -114,7 +114,7 @@ This section list some of early projects while I was studing for my A.A.S in Web
 * [](https:///)
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
 
 
 
@@ -130,13 +130,13 @@ This section list a few projects and new skills that I am developing while studi
 * [](https:///)
 * [](https:///)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">⏫ back to top ⏫</a>)</p>
 
 
 ### Prerequisites
 
 dkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvb
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
 
 
 ### Template
