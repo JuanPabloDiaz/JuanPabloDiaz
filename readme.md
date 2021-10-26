@@ -53,7 +53,7 @@ I am passionate about Full stack Web Development and had completed an A.A.S in W
       <a href="#recentProjects">Most Recent Projects</a>
       <ul>
         <li><a href="#home-server">Home Server</a></li>
-        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#School portfolio">School Portfolio</a></li>
         <li><a href="#web-page">Web Page</a></li>
       </ul>
     </li>
@@ -65,44 +65,63 @@ I am passionate about Full stack Web Development and had completed an A.A.S in W
 <!-- ABOUT THE PROJECT -->
 ## Home Server
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div>
+[Visit my GitHub repository](https://#)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+<p>Visit my GitHub
+<a href="http:// " target="_blank " rel="noopener noreferrer "
+>repository</a
+>
+to see all the source code for this project.
+</p>
+<p>
+The structure and documentation is saved on an HTML file, the
+design on a CSS file and the user's interface on a Javascript
+file.
+</p>
+<p>
+All files are served through <a href="https://www.nginx.com/ " target="_blank " rel="noopener noreferrer ">NGINX</a>, which runs in a wonderful
+<a href="https://github.com/linuxserver/docker-letsencrypt " target="_blank " rel="noopener noreferrer ">docker container</a> that is used as a reverse proxy with other
+private access services that are also runinng on the Raspberry:
+( <a href="https://nextcloud.com/ " target="_blank " rel="noopener noreferrer ">Nextcloud</a>, <a href="https://portainer.com " target="_blank " rel="noopener noreferrer ">Portainer</a>, <a href="https://hub.docker.com/r/b4bz/homer
+" target="_blank " rel="noopener noreferrer ">Homer</a>, <a href="https://pi-hole.net/ " target="_blank " rel="noopener noreferrer ">Pi-hole</a>, <a href="https://github.com/linuxserver/docker-qbittorrent " target="_blank " rel="noopener
+noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=linuxserver/jackett " target="_blank " rel="noopener noreferrer ">Jackett</a>…).
+</p>
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-### Portfolio
+### School Portfolio
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section list some of early projects while I was studing for my A.A.S in Web Technologies at CPCC.
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [DACA](https://DACA.org/)
+* [One Page Web](https://reactjs.org/)
+* [](https:///)
+* [](https:///)
+* [](https:///)
+* [](https:///)
+* [](https:///)
+* [](https:///)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+### Platzi Portfolio
 
-dkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvb
+This section list a few projects and new skills that I am developing while studing at Platzi.com
+
+* [](https:///)
+* [](https:///)
+* [](https:///)
+* [](https:///)
+* [](https:///)
+* [](https:///)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
