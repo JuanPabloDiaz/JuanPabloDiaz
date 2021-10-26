@@ -24,8 +24,8 @@ I am passionate about Full stack Web Development and had completed an A.A.S in W
 <div>
     <h3>Skills</h3>
     <ul style="list-style-type:none;">
-        <li>✔️ Problem solving skills</li>
-        <li>✔️ Critical thinking</li>
+        <P>✔️ Problem solving skills</P>
+        <P>✔️ Critical thinking</P>
         <li>✔️ Time Management</li>
         <li>✔️ Disciplined</li>
         <li>✔️ Detail-oriented</li>
@@ -141,9 +141,8 @@ dkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkha
 
 ### Template
 
-### Hi there 👋
-
 <!--
+Hi there 👋
 ✨ _special_ ✨
 
 Here are some ideas to get you started:
