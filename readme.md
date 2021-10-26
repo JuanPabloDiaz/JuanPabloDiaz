@@ -17,22 +17,23 @@
 
   <h2 align="center">Hello 👋</h2>
   <p align="justify">
-My name is Juan Diaz, I am from Colombia and I recently moved to Asheville, NC.
+My name is Juan Diaz, I am from Colombia and I recently moved to Asheville, NC. :us:
 I am passionate about Full stack Web Development and had completed an A.A.S in Web Technologies at CPCC. I enjoys developing new skills in front-end and back-end development. I have a couple of year of experience as a Service Desk Analyst. I am looking forward to start working with a Startup company that allows for professional and personal growth. I value discipline, loyalty, reliability, and self-motivation above all else.</p>
 </div>
 
 <div>
   <h3>Skills</h3>
-  <div>✔️ Problem solving skills</div>
-  <div>✔️ Critical thinking</div>
-  <div>✔️ Time Management</div>
-  <div>✔️ Disciplined</div>
-  <div>✔️ Detail-oriented</div>
-  <div>✔️ Customer Service</div>
-  <div>:heavy_check_mark: Adaptability</div>
-  <div>:heavy_check_mark: Bilingual</div>
-
-  <h3>Current Job Description</h3>
+  <ul>
+    <div>✔️ Problem solving skills</div>
+    <div>✔️ Critical thinking</div>
+    <div>✔️ Time Management</div>
+    <div>✔️ Disciplined</div>
+    <div>✔️ Detail-oriented</div>
+    <div>✔️ Customer Service</div>
+    <div>:heavy_check_mark: Adaptability</div>
+    <div>:heavy_check_mark: Bilingual</div>
+  <ul>
+  <h3>Current Job Description :office:</h3>
   <ul>
     <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
     <li>Provides remote assistance with software deployment, and system configuration.</li>
@@ -96,7 +97,7 @@ This section list some of early projects while I was studing for my A.A.S in Web
 * [DACA](https://DACA.org/)
 * [One Page Web](https://reactjs.org/)
 * [Portfolio](https:///)https://juanpablodiaz.github.io/
-* [](https:///)
+* [:bike:](https:///)
 * [](https:///)
 * [](https:///)
 * [](https:///)
@@ -112,7 +113,7 @@ This section list some of early projects while I was studing for my A.A.S in Web
 
 This section list a few projects and new skills that I am developing while studing at Platzi.com
 
-* [](https:///)
+* [:soon:](https:///)
 * [](https:///)
 * [](https:///)
 * [](https:///)
