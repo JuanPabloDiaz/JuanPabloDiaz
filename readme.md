@@ -72,7 +72,7 @@ I am passionate about Full stack Web Development and had completed an A.A.S in W
 <!-- ABOUT THE PROJECT -->
 ## Home Server
 
-[Visit my GitHub repository](https://github.com/JuanPabloDiaz/SelfHosting-PiServer)
+[Visit my GitHub repository](https://github.com/JuanPabloDiaz/SelfHosting-PiServer) to see all the source code for this project.
 
 <div>
 <p>Visit my GitHub :link:
