@@ -13,8 +13,8 @@
 <div align="center">
   <a href="#">
     <img src="images/logo_JuanDiaz.PNG" alt="Logo" width="300" height="300">
-    <img src="images/logo_JuanDiaz-Noback.PNG" alt="Logo" width="300" height="300">
-    <img src="images/logo_JuanDiazButton.png" alt="Logo" width="300" height="300">
+    <img src="images/logo_JuanDiaz-Noback.PNG" alt="Logo">
+    <img src="images/logo_JuanDiazButton.png" alt="Logo">
   </a>
 
   <h2 align="center">Hello 👋</h2>
