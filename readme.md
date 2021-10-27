@@ -22,6 +22,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 
 <div>
 <!-- My Skills -->
+<img align='right' src="https://media4.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif?cid=ecf05e47gzy4xfa4dq1asdzb0xd7hp4w5g4tr178bgnwyw0f&rid=giphy.gif&ct=g" width="230">
 
   <h3>Skills</h3>
   <ul>
