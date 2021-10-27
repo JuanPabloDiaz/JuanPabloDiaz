@@ -23,16 +23,16 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 <div>
   <h3>Skills</h3>
   <ul>
-    <div>✔️ Problem solving skills</div>
-    <div>✔️ Critical thinking</div>
-    <div>✔️ Time Management</div>
-    <div>✔️ Disciplined</div>
-    <div>✔️ Detail-oriented</div>
-    <div>✔️ Customer Service</div>
-    <div>:heavy_check_mark: Adaptability</div>
-    <div>:heavy_check_mark: Bilingual</div>
+<div>✔️ Problem solving skills</div>
+<div>✔️ Critical thinking</div>
+<div>✔️ Time Management</div>
+<div>✔️ Disciplined</div>
+<div>✔️ Detail-oriented</div>
+<div>✔️ Customer Service</div>
+<div>:heavy_check_mark: Adaptability</div>
+<div>:heavy_check_mark: Bilingual</div>
   <ul>
-  <h3>Current Job Description :office:</h3>
+<h3>Current Job Description :office:</h3>
   <ul>
     <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
     <li>Provides remote assistance with software deployment, and system configuration.</li>
