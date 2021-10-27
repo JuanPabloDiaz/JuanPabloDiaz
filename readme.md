@@ -21,7 +21,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 </div>
 
 <div>
-##Skills
+  <h3>Skills</h3>
   <ul>
     <div>✔️ Problem solving skills</div>
     <div>✔️ Critical thinking</div>
@@ -32,15 +32,17 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
     <div>:heavy_check_mark: Adaptability</div>
     <div>:heavy_check_mark: Bilingual</div>
   </ul>
-<h3>Current Job Description :office:</h3>
-  <ul>
-    <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
-    <li>Provides remote assistance with software deployment, and system configuration.</li>
-    <li>Effectively communicate with a variety of departments.</li>
-    <li>Proactively investigate and resolve end user problems/complications. </li>
-    <li>Adaptability to multiple enterprise environments.Following a process oriented approach. </li>
-    <li>Utilizes problem solving skills to find solutions to unusual issues. </li>
-  </ul>
+
+## Current Job Description :office:
+
+<ul>
+  <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
+  <li>Provides remote assistance with software deployment, and system configuration.</li>
+  <li>Effectively communicate with a variety of departments.</li>
+  <li>Proactively investigate and resolve end user problems/complications. </li>
+  <li>Adaptability to multiple enterprise environments.Following a process oriented approach. </li>
+  <li>Utilizes problem solving skills to find solutions to unusual issues. </li>
+</ul>
 </div>
 <!-- TABLE OF CONTENTS -->
 <details>
