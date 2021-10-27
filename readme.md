@@ -49,17 +49,19 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#recentProjects">Most Recent Projects</a>
+      <a href="#recentProjects">Projects</a>
       <ul>
-        <li><a href="#home-server">Home Server</a></li>
-        <li><a href="#School portfolio">School Portfolio</a></li>
-        <li><a href="#web-page">Web Page</a></li>
+        <li>📌<a href="#Most-Recent-Projects">Most Recent Projects </a></li>
+        <li>📌<a href="#home-server">Home Server</a></li>
+        <li>📌<a href="#School portfolio">School Portfolio</a></li>
+        <li>📌<a href="#School portfolio">Platzi Portfolio</a></li>
+        <li>📌<a href="#web-page">Web Page</a></li>
+        <li>📌<a href="#web-page">Others</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -68,18 +70,23 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!-- ABOUT THE PROJECT -->
+<!-- THE PROJECTS -->
+## Projects
+
+
+## Most Recent Projects
+
+📆 I’m currently working on ...
+
+:construction:
+
+
 ## Home Server
 
 :link: [Visit my GitHub repository](https://github.com/JuanPabloDiaz/SelfHosting-PiServer) to see all the source code for this project.
 
 <p>
-The structure and documentation is saved on an HTML file, the
-design on a CSS file and the user's interface on a Javascript
-file.
-</p>
-<p>
-All files are served through <a href="https://www.nginx.com/ " target="_blank " rel="noopener noreferrer ">NGINX</a>, which runs in a wonderful
+The structure and documentation is saved on an HTML file, the design on a CSS file and the user's interface on a Javascript file. All files are served through <a href="https://www.nginx.com/ " target="_blank " rel="noopener noreferrer ">NGINX</a>, which runs in a wonderful
 <a href="https://github.com/linuxserver/docker-letsencrypt " target="_blank " rel="noopener noreferrer ">docker container</a> that is used as a reverse proxy with other
 private access services that are also runinng on the Raspberry:
 ( <a href="https://nextcloud.com/ " target="_blank " rel="noopener noreferrer ">Nextcloud</a>, <a href="https://portainer.com " target="_blank " rel="noopener noreferrer ">Portainer</a>, <a href="https://hub.docker.com/r/b4bz/homer
@@ -91,7 +98,7 @@ noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=l
 
 
 
-### School Portfolio
+### School Portfolio 🎬
 
 This section list some of early projects while I was studing for my A.A.S in Web Technologies at CPCC.
 
@@ -110,7 +117,7 @@ This section list some of early projects while I was studing for my A.A.S in Web
 
 
 <!-- GETTING STARTED -->
-### Platzi Portfolio
+### Platzi Portfolio 💼
 
 This section list a few projects and new skills that I am developing while studing at Platzi.com
 
