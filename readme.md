@@ -47,17 +47,19 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary><b>Table of Contents</b></summary>
-  <li><a href="#recentProjects">Projects</a>
+  <p><a href="#recentProjects">Projects</a></p>
     <ul>
       <p>📌<a href="#Most-Recent-Projects">Most Recent Projects </a></p>
-      <p>📌<a href="#home-server">Home Server</a></p>
-      <p>📌<a href="#School portfolio">School Portfolio</a></p>
-      <p>📌<a href="#School portfolio">Platzi Portfolio</a></p>
+      <ul>📌<a href="#home-server">Home Server</a></ul>
+      <p>📌<a href="#Platzi-portfolio">Platzi Portfolio</a></p>
+      <p>📌<a href="#School-portfolio">School Portfolio</a></p>
       <p>📌<a href="#web-page">Web Page</a></p>
-      <p>📌<a href="#web-page">Others</a></p>
+      <p>📌<a href="#others">Others</a></p>
     </ul>
-  </li>
 </details>
+<br/>
+<hr>
+
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -71,14 +73,14 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 ## Projects 🚀
 
 
-## Most Recent Projects 💥💥
+### Most Recent Projects 💥💥
 
 📆 I’m currently working on ...
 
 :construction:
 
 
-## Home Server 💻
+#### Home Server 💻
 
 :link: [Visit my GitHub repository](https://github.com/JuanPabloDiaz/SelfHosting-PiServer) to see all the source code for this project.
 
@@ -92,6 +94,22 @@ noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=l
 </p>
 
 <p align="right">(<a href="#top">⏫ back to top ⏫</a>)</p>
+
+
+### Platzi Portfolio 💼
+
+This section list a few projects and new skills that I am developing while studing at Platzi.com
+
+* [:soon:](https:///)
+* [](https:///)
+* [](https:///)
+* [](https:///)
+* [](https:///)
+* [](https:///)
+
+
+
+<p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
 
 
 
@@ -108,35 +126,27 @@ This section list some of early projects while I was studing for my A.A.S in Web
 * [](https:///)
 * [](https:///)
 
-
-<p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-### Platzi Portfolio 💼
-
-This section list a few projects and new skills that I am developing while studing at Platzi.com
-
-* [:soon:](https:///)
-* [](https:///)
-* [](https:///)
-* [](https:///)
-* [](https:///)
-* [](https:///)
-
 <p align="right">(<a href="#top">⏫ back to top ⏫</a>)</p>
 
 
-### Prerequisites
+### Web-Page
 
 dkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvb
+
+
 <p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
 
 
-### Template
+### Others
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!--
+
+Templates...
+
+
 Hi there 👋
 ✨ _special_ ✨
 
@@ -150,9 +160,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+icons...
+https://gist.github.com/rxaviers/7360908
+
 -->
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
