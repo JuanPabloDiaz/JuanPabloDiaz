@@ -129,6 +129,20 @@ dkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkha
 
 ### Others
 
+```javascript
+const JuanDiaz = {
+  Root: "Bogota" | "Colombia",
+  code: [Javascript, HTML, CSS, Python,],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        Web: Platzi.com
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on Javascript"
+}
+```
+<img align='right' src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47gzy4xfa4dq1asdzb0xd7hp4w5g4tr178bgnwyw0f&rid=giphy.gif&ct=g" width="430">
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
