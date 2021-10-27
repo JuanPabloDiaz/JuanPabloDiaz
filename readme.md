@@ -55,10 +55,10 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
   <p><a href="#recentProjects">Projects</a></p>
       <p>📌<a href="#most-recent-projects">Most Recent Projects</a></p>
       <p>📌<a href="#home-server">Home Server</a></p>
-      <p>📌<a href="#platzi">Platzi Portfolio</a></p>
+      <p>📌<a href="#platzi-portfolio-💼">Platzi Portfolio 💼</a></p>
       <p>📌<a href="#school-portfolio">School Portfolio</a></p>
       <p>📌<a href="#web-page">Web Page</a></p>
-      <p>📌<a href="#others">Others</a></p>
+      <p>📌<a href="#others :gem:">Others</a></p>
     </ul>
 </details>
 <br/>
@@ -100,6 +100,7 @@ noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=l
 <p align="right">(<a href="#top">⏫ back to top ⏫</a>)</p>
 
 <div class="#platzi">
+
 ### Platzi Portfolio 💼
 
 This section list a few projects and new skills that I am developing while studing at Platzi.com
@@ -140,7 +141,7 @@ dkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkha
 <p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
 
 
-### Others
+### others :gem:
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
