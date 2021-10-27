@@ -33,7 +33,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
     <div>:heavy_check_mark: Bilingual</div>
   </ul>
 
-## Current Job Description :office:
+## Current Job Description 🏫
 
 <ul>
   <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
@@ -81,7 +81,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 :construction:
 
 
-## Home Server
+## Home Server 💻
 
 :link: [Visit my GitHub repository](https://github.com/JuanPabloDiaz/SelfHosting-PiServer) to see all the source code for this project.
 
@@ -98,7 +98,7 @@ noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=l
 
 
 
-### School Portfolio 🎬
+### School Portfolio 🏫
 
 This section list some of early projects while I was studing for my A.A.S in Web Technologies at CPCC.
 
