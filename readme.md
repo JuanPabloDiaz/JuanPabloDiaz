@@ -21,6 +21,8 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 </div>
 
 <div>
+<!-- My Skills -->
+
   <h3>Skills</h3>
   <ul>
     <div>✔️ Problem solving skills</div>
@@ -33,7 +35,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
     <div>:heavy_check_mark: Bilingual</div>
   </ul>
 
-<!-- TABLE OF CONTENTS -->
+<!-- Job Description -->
 <details>
   <summary><b><u>Current Job Description 💰</u></b></summary>
   <ul>
@@ -46,25 +48,15 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
   </ul>
 </details>
 
-## Current Job Description 💰
-
-<ul>
-  <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
-  <li>Provides remote assistance with software deployment, and system configuration.</li>
-  <li>Effectively communicate with a variety of departments.</li>
-  <li>Proactively investigate and resolve end user problems/complications. </li>
-  <li>Adaptability to multiple enterprise environments.Following a process oriented approach. </li>
-  <li>Utilizes problem solving skills to find solutions to unusual issues. </li>
-</ul>
 </div>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary><b>Table of Contents</b></summary>
   <p><a href="#recentProjects">Projects</a></p>
-    <ul>
       <p>📌<a href="#most-recent-projects">Most Recent Projects</a></p>
-      <ul>📌<a href="#home-server">Home Server</a></ul>
-      <p>📌<a href="#platzi-portfolio">Platzi Portfolio</a></p>
+      <p>📌<a href="#home-server">Home Server</a></p>
+      <p>📌<a href="#platzi">Platzi Portfolio</a></p>
+      <p>📌<a href=".platzi">Platzi Portfolio</a></p>
       <p>📌<a href="#school-portfolio">School Portfolio</a></p>
       <p>📌<a href="#web-page">Web Page</a></p>
       <p>📌<a href="#others">Others</a></p>
@@ -108,7 +100,7 @@ noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=l
 
 <p align="right">(<a href="#top">⏫ back to top ⏫</a>)</p>
 
-
+<div class="platzi">
 ### Platzi Portfolio 💼
 
 This section list a few projects and new skills that I am developing while studing at Platzi.com
@@ -121,10 +113,9 @@ This section list a few projects and new skills that I am developing while studi
 * [](https:///)
 
 
-
 <p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
 
-
+</div>
 
 ### School Portfolio 🏫
 
