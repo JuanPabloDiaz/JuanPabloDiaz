@@ -21,17 +21,17 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 </div>
 
 <div>
-  <h3>Skills</h3>
+##Skills
   <ul>
-<div>✔️ Problem solving skills</div>
-<div>✔️ Critical thinking</div>
-<div>✔️ Time Management</div>
-<div>✔️ Disciplined</div>
-<div>✔️ Detail-oriented</div>
-<div>✔️ Customer Service</div>
-<div>:heavy_check_mark: Adaptability</div>
-<div>:heavy_check_mark: Bilingual</div>
-  <ul>
+    <div>✔️ Problem solving skills</div>
+    <div>✔️ Critical thinking</div>
+    <div>✔️ Time Management</div>
+    <div>✔️ Disciplined</div>
+    <div>✔️ Detail-oriented</div>
+    <div>✔️ Customer Service</div>
+    <div>:heavy_check_mark: Adaptability</div>
+    <div>:heavy_check_mark: Bilingual</div>
+  </ul>
 <h3>Current Job Description :office:</h3>
   <ul>
     <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
@@ -84,8 +84,6 @@ private access services that are also runinng on the Raspberry:
 " target="_blank " rel="noopener noreferrer ">Homer</a>, <a href="https://pi-hole.net/ " target="_blank " rel="noopener noreferrer ">Pi-hole</a>, <a href="https://github.com/linuxserver/docker-qbittorrent " target="_blank " rel="noopener
 noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=linuxserver/jackett " target="_blank " rel="noopener noreferrer ">Jackett</a>…).
 </p>
-
-  <img src="images/logo_JuanDiaz.PNG" alt="Logo" width="300" height="300">
 
 <p align="right">(<a href="#top">⏫ back to top ⏫</a>)</p>
 
