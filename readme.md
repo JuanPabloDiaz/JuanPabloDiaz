@@ -34,10 +34,23 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
     <div>:heavy_check_mark: Adaptability</div>
     <div>:heavy_check_mark: Bilingual</div>
   </ul>
+  <details>
+  <summary><b>Skills</b></summary>
+  <ul>
+    <div>✔️ Problem solving skills</div>
+    <div>✔️ Critical thinking</div>
+    <div>✔️ Time Management</div>
+    <div>✔️ Disciplined</div>
+    <div>✔️ Detail-oriented</div>
+    <div>✔️ Customer Service</div>
+    <div>:heavy_check_mark: Adaptability</div>
+    <div>:heavy_check_mark: Bilingual</div>
+  </ul>
+</details>
 
 <!-- Job Description -->
 <details>
-  <summary><b><u>Current Job Description 💰</u></b></summary>
+  <summary><b>Current Job Description 💰</b></summary>
   <ul>
     <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
   <li>Provides remote assistance with software deployment, and system configuration.</li>
@@ -47,9 +60,8 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
   <li>Utilizes problem solving skills to find solutions to unusual issues. </li>
   </ul>
 </details>
-
 </div>
-<br/>
+
 <hr>
 
 
@@ -87,8 +99,7 @@ noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=l
 
 <p align="right">(<a href="#top">⏫ back to top ⏫</a>)</p>
 
-<div class="#platzi">
-
+<!-- Platzi -->
 ### Platzi Portfolio 💼
 
 This section list a few projects and new skills that I am developing while studing at Platzi.com
@@ -103,8 +114,7 @@ This section list a few projects and new skills that I am developing while studi
 
 <p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
 
-</div>
-
+<!-- SCHOOL PROJECTS -->
 ### School Portfolio 🏫
 
 This section list some of early projects while I was studing for my A.A.S in Web Technologies at CPCC.
