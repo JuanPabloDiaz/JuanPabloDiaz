@@ -47,7 +47,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary><b>Table of Contents</b></summary>
-  <div><a href="#recentProjects">Projects</a>
+  <li><a href="#recentProjects">Projects</a>
     <ul>
       <p>📌<a href="#Most-Recent-Projects">Most Recent Projects </a></p>
       <p>📌<a href="#home-server">Home Server</a></p>
@@ -56,7 +56,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
       <p>📌<a href="#web-page">Web Page</a></p>
       <p>📌<a href="#web-page">Others</a></p>
     </ul>
-  </div>
+  </li>
 </details>
 
 - 🌱 I’m currently learning ...
