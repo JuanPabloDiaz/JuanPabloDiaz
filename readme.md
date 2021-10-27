@@ -25,7 +25,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 
   <h3>Skills</h3>
   <ul>
-    <div>✔️ Problem solving skills</div>
+    <div>✔️ Problem solving skills                       ✔️ Customer Service</div>
     <div>✔️ Critical thinking</div>
     <div>✔️ Time Management</div>
     <div>✔️ Disciplined</div>
@@ -34,19 +34,6 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
     <div>:heavy_check_mark: Adaptability</div>
     <div>:heavy_check_mark: Bilingual</div>
   </ul>
-  <details>
-  <summary><b>Skills</b></summary>
-  <ul>
-    <div>✔️ Problem solving skills</div>
-    <div>✔️ Critical thinking</div>
-    <div>✔️ Time Management</div>
-    <div>✔️ Disciplined</div>
-    <div>✔️ Detail-oriented</div>
-    <div>✔️ Customer Service</div>
-    <div>:heavy_check_mark: Adaptability</div>
-    <div>:heavy_check_mark: Bilingual</div>
-  </ul>
-</details>
 
 <!-- Job Description -->
 <details>
