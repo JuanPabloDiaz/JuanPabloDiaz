@@ -33,7 +33,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
     <div>:heavy_check_mark: Bilingual</div>
   </ul>
 
-## Current Job Description 💰 
+## Current Job Description 💰
 
 <ul>
   <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
@@ -46,20 +46,16 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 </div>
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#recentProjects">Projects</a>
-      <ul>
-        <li>📌<a href="#Most-Recent-Projects">Most Recent Projects </a></li>
-        <li>📌<a href="#home-server">Home Server</a></li>
-        <li>📌<a href="#School portfolio">School Portfolio</a></li>
-        <li>📌<a href="#School portfolio">Platzi Portfolio</a></li>
-        <li>📌<a href="#web-page">Web Page</a></li>
-        <li>📌<a href="#web-page">Others</a></li>
-      </ul>
-    </li>
-  </ol>
+  <summary><b>Table of Contents</b></summary>
+  <p><a href="#recentProjects">Projects</a></p>
+    <ul>
+      <p>📌<a href="#Most-Recent-Projects">Most Recent Projects </a></p>
+      <p>📌<a href="#home-server">Home Server</a></p>
+      <p>📌<a href="#School portfolio">School Portfolio</a></p>
+      <p>📌<a href="#School portfolio">Platzi Portfolio</a></p>
+      <p>📌<a href="#web-page">Web Page</a></p>
+      <p>📌<a href="#web-page">Others</a></p>
+    </ul>
 </details>
 
 - 🌱 I’m currently learning ...
