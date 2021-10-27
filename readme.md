@@ -33,9 +33,8 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
     <div>:heavy_check_mark: Bilingual</div>
   </ul>
 
-<!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Current Job Description 💰</summary>
+  <summary><h3>Current Job Description 💰</h3></summary>
   <ul>
     <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
   <li>Provides remote assistance with software deployment, and system configuration.</li>
@@ -45,6 +44,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
   <li>Utilizes problem solving skills to find solutions to unusual issues. </li>
   </ul>
 </details>
+
 ## Current Job Description 💰
 
 <ul>
