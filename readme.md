@@ -33,7 +33,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
     <div>:heavy_check_mark: Bilingual</div>
   </ul>
 
-## Current Job Description 🏫
+## Current Job Description 💰 
 
 <ul>
   <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
@@ -71,10 +71,10 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 - ⚡ Fun fact: ...
 
 <!-- THE PROJECTS -->
-## Projects
+## Projects 🚀
 
 
-## Most Recent Projects
+## Most Recent Projects 💥💥
 
 📆 I’m currently working on ...
 
