@@ -11,7 +11,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="#">
+  <a href="https://github.com/JuanPabloDiaz?tab=repositories">
     <img src="images/logo_JuanDiaz-Noback.PNG" alt="Logo">
   </a>
 
