@@ -33,6 +33,18 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
     <div>:heavy_check_mark: Bilingual</div>
   </ul>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Current Job Description 💰</summary>
+  <ul>
+    <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
+  <li>Provides remote assistance with software deployment, and system configuration.</li>
+  <li>Effectively communicate with a variety of departments.</li>
+  <li>Proactively investigate and resolve end user problems/complications. </li>
+  <li>Adaptability to multiple enterprise environments.Following a process oriented approach. </li>
+  <li>Utilizes problem solving skills to find solutions to unusual issues. </li>
+  </ul>
+</details>
 ## Current Job Description 💰
 
 <ul>
@@ -73,17 +85,14 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 ## Projects 🚀
 
 
-### Most Recent Projects
-
-💥💥
+### Most Recent Projects 💥💥
 
 📆 I’m currently working on ...
 
 :construction:
 
 
-#### Home Server
- 💻
+#### Home Server 💻
 
 :link: [Visit my GitHub repository](https://github.com/JuanPabloDiaz/SelfHosting-PiServer) to see all the source code for this project.
 
