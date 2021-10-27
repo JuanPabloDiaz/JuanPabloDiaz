@@ -34,6 +34,8 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
     <div>✔️ Customer Service</div>
     <div>:heavy_check_mark: Adaptability</div>
     <div>:heavy_check_mark: Bilingual</div>
+    <div>✔️ Frond-End</div>
+
   </ul>
 
 <!-- Job Description -->
