@@ -49,18 +49,6 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 </details>
 
 </div>
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary><b>Table of Contents</b></summary>
-  <p><a href="#recentProjects">Projects</a></p>
-      <p>📌<a href="#most-recent-projects">Most Recent Projects</a></p>
-      <p>📌<a href="#home-server">Home Server</a></p>
-      <p>📌<a href="#platzi-portfolio-💼">Platzi Portfolio 💼</a></p>
-      <p>📌<a href="#school-portfolio">School Portfolio</a></p>
-      <p>📌<a href="#web-page">Web Page</a></p>
-      <p>📌<a href="#others :gem:">Others</a></p>
-    </ul>
-</details>
 <br/>
 <hr>
 
@@ -141,7 +129,7 @@ dkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkha
 <p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
 
 
-### others :gem:
+### Others
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
