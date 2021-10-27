@@ -49,11 +49,10 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
   <summary><b>Table of Contents</b></summary>
   <p><a href="#recentProjects">Projects</a></p>
     <ul>
-      <p>📌<a href="### Most-Recent-Projects">Most Recent Projects </a></p>
-      <ul>📌<a href="####home-server">Home Server</a></ul>
-      <ul>📌<a href="####Home-Server">Home Server</a></ul>
-      <p>📌<a href="#Platzi-portfolio">Platzi Portfolio</a></p>
-      <p>📌<a href="#School-portfolio">School Portfolio</a></p>
+      <p>📌<a href="#most-recent-projects">Most Recent Projects</a></p>
+      <ul>📌<a href="#home-server">Home Server</a></ul>
+      <p>📌<a href="#platzi-portfolio">Platzi Portfolio</a></p>
+      <p>📌<a href="#school-portfolio">School Portfolio</a></p>
       <p>📌<a href="#web-page">Web Page</a></p>
       <p>📌<a href="#others">Others</a></p>
     </ul>
@@ -74,14 +73,17 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 ## Projects 🚀
 
 
-### Most Recent Projects 💥💥
+### Most Recent Projects
+
+💥💥
 
 📆 I’m currently working on ...
 
 :construction:
 
 
-#### Home Server 💻
+#### Home Server
+ 💻
 
 :link: [Visit my GitHub repository](https://github.com/JuanPabloDiaz/SelfHosting-PiServer) to see all the source code for this project.
 
