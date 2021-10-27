@@ -25,7 +25,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 
   <h3>Skills</h3>
   <ul>
-    <div>✔️ Problem solving skills                       ✔️ Customer Service</div>
+    <div>✔️ Problem solving skills</div>
     <div>✔️ Critical thinking</div>
     <div>✔️ Time Management</div>
     <div>✔️ Disciplined</div>
