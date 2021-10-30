@@ -54,7 +54,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 <hr>
 
 
-- 🌱 I’m currently learning with Platzi.com
+- 🌱 I’m currently learning with [Platzi.com] (Platzi.com)
 - 👯 I’m looking to collaborate on Startups in Colombia.
 - 🤔 I’m looking for help with Full-Stack.
 - 💬 Ask me about Home-Lap, Front-End.
