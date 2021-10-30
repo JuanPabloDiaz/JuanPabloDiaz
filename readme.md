@@ -55,15 +55,14 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 <hr>
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-<!-- [https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png] (www.linkedin.com/in/juandiaz-col) [https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png] (https://twitter.com/1diazdev) -->
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="80" alt="linkedin" /></a>
-<a href="https://www.twitter.com/1diazdev" title="twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="80" alt="linkedin" /></a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning with Platzi.com
+- 👯 I’m looking to collaborate on Startups in Colombia.
+- 🤔 I’m looking for help with Full-Stack.
+- 💬 Ask me about Home-Lap, Front-End.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="20" alt="linkedin" /></a>
+<a href="https://www.twitter.com/1diazdev" title="twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20" alt="linkedin" /></a>
+- 😄 Pronouns: 'One' Diaz
+- ⚡ Hobbies: Cyclist && fitness.
 
 <!-- THE PROJECTS -->
 ## Projects 🚀
