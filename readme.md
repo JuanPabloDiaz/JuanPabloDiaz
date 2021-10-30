@@ -61,7 +61,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 - 💬 Ask me about Home-Lap & Front-End.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="20" alt="linkedin" /></a>
 <a href="https://www.twitter.com/1diazdev" title="twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20" alt="linkedin" /></a>
-- 😄 Fun Fact: Some people pronounce my name as [/One/](https://www.youtube.com/watch?v=14mwhbIMFVE&t=42s) Diaz.
+- 😄 Fun Fact: Some people pronounce my name as [/One/](https://www.youtube.com/watch?v=14mwhbIMFVE&t=23s) Diaz.
 - ⚡ Hobbies: Home-Lab, DJ, Cyclist & fitness.
 
 <!-- THE PROJECTS -->
@@ -94,7 +94,7 @@ noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=l
 This section list a few projects and new skills that I am developing while studing at Platzi.com
 
 * [:soon:](https:///)
-* [](https:///)
+* [Repo](https://github.com/JuanPabloDiaz/2021-Platzi)
 * [](https:///)
 * [](https:///)
 * [](https:///)
@@ -108,13 +108,13 @@ This section list a few projects and new skills that I am developing while studi
 
 This section list some of early projects while I was studing for my A.A.S in Web Technologies at CPCC.
 
-* [DACA](https://DACA.org/)
+* [DACA](https://juanpablodiaz.github.io/2018/DACA/index.html)
 * [One Page Web](https://reactjs.org/)
-* [Portfolio](https:///)https://juanpablodiaz.github.io/
+* [Portfolio (2018-20)](https://juanpablodiaz.github.io/)
 * [:bike:](https:///)
-* [](https:///)
-* [](https:///)
-* [](https:///)
+* [My Hobby](https://juanpablodiaz.github.io/WEB_Intership2019/scrollTemp.html)
+* [2018- Web Project/](https://juanpablodiaz.github.io/2018/web110/project/index.html)
+* [VicRodri (e-Comerce)](https://juanpablodiaz.github.io/2018/!brandVicRodri/index.html)
 * [](https:///)
 
 <p align="right">(<a href="#top">⏫ back to top ⏫</a>)</p>
