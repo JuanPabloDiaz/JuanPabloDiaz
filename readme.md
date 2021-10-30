@@ -54,22 +54,21 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 <hr>
 
 
-- 🌱 I’m currently learning with [Platzi.com](Platzi.com)
+- 🌱 I’m currently learning with [Platzi.com](https://Platzi.com)
+- 📆 I’m currently working on [FullStack in JavaScript](https://platzi.com/escuela-javascript/)
 - 👯 I’m looking to collaborate on Startups in Colombia.
 - 🤔 I’m looking for help with Full-Stack.
 - 💬 Ask me about Home-Lap, Front-End.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="20" alt="linkedin" /></a>
 <a href="https://www.twitter.com/1diazdev" title="twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20" alt="linkedin" /></a>
 - 😄 Pronouns: 'One' Diaz
-- ⚡ Hobbies: Cyclist && fitness.
+- ⚡ Hobbies: Home-Lab, DJ, Cyclist & fitness.
 
 <!-- THE PROJECTS -->
 ## Projects 🚀
 
 
 ### Most Recent Projects 💥💥
-
-📆 I’m currently working on ...
 
 :construction:
 
