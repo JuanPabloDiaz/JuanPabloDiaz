@@ -51,10 +51,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 </div>
 
 <hr>
-<!--
-icons...
-https://gist.github.com/rxaviers/7360908
--->
+
 - 📱 I’m currently working at... ePlus
 - 🌱 I’m currently learning at... [Platzi.com](https://Platzi.com)
 - 📆 I’m currently working on... [FullStack in JavaScript](https://platzi.com/escuela-javascript/)
@@ -66,8 +63,11 @@ https://gist.github.com/rxaviers/7360908
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun Fact: ... Some people pronounce my name as [/One/](https://www.youtube.com/watch?v=14mwhbIMFVE&t=23s) Diaz.
 - 🚲 Hobbies: ... Home-Lab, DJ, Cyclist & fitness.
-
-<!-- THE PROJECTS -->
+  <!--
+  icons...
+  https://gist.github.com/rxaviers/7360908
+  -->
+  <!-- THE PROJECTS -->
 
 ## Projects 🚀
 
