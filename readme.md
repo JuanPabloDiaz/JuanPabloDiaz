@@ -8,7 +8,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 -->
 
-
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/JuanPabloDiaz?tab=repositories">
@@ -52,28 +51,33 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 </div>
 
 <hr>
-
-
-- 🌱 I’m currently learning with [Platzi.com](https://Platzi.com)
-- 📆 I’m currently working on [FullStack in JavaScript](https://platzi.com/escuela-javascript/)
-- 👯 I’m looking to collaborate on Startups in Colombia.
-- 🤔 I’m looking for help with Full-Stack.
-- 💬 Ask me about Home-Lap & Front-End.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="20" alt="linkedin" /></a>
-<a href="https://www.twitter.com/1diazdev" title="twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20" alt="linkedin" /></a>
-- 😄 Fun Fact: Some people pronounce my name as [/One/](https://www.youtube.com/watch?v=14mwhbIMFVE&t=23s) Diaz.
-- ⚡ Hobbies: Home-Lab, DJ, Cyclist & fitness.
+<!--
+icons...
+https://gist.github.com/rxaviers/7360908
+-->
+- 📱 I’m currently working at... ePlus
+- 🌱 I’m currently learning at... [Platzi.com](https://Platzi.com)
+- 📆 I’m currently working on... [FullStack in JavaScript](https://platzi.com/escuela-javascript/)
+- 👯 I’m looking to collaborate on... Startups in Colombia.
+- 🤔 I’m looking for help with... Full-Stack.
+- 💬 Ask me about... Home-Lap & Front-End.
+- 📫 How to reach me... <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="20" alt="linkedin" /></a>
+  <a href="https://www.twitter.com/1diazdev" title="twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20" alt="linkedin" /></a>
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun Fact: ... Some people pronounce my name as [/One/](https://www.youtube.com/watch?v=14mwhbIMFVE&t=23s) Diaz.
+- 🚲 Hobbies: ... Home-Lab, DJ, Cyclist & fitness.
 
 <!-- THE PROJECTS -->
-## Projects 🚀
 
+## Projects 🚀
 
 ### Most Recent Projects 💥💥
 
 :construction:
 
-
 #### Home Server 💻
+
+💾 Project [Documentation](https://juanpablodiaz.github.io/SelfHosting-PiServer/)
 
 :link: [Visit my GitHub repository](https://github.com/JuanPabloDiaz/SelfHosting-PiServer) to see all the source code for this project.
 
@@ -89,84 +93,58 @@ noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=l
 <p align="right">(<a href="#top">⏫ back to top ⏫</a>)</p>
 
 <!-- Platzi -->
+
 ### Platzi Portfolio 💼
 
 This section list a few projects and new skills that I am developing while studing at Platzi.com
 
-* [:soon:](https:///)
-* [Repo](https://github.com/JuanPabloDiaz/2021-Platzi)
-* [](https:///)
-* [](https:///)
-* [](https:///)
-* [](https:///)
-
+- [:soon:](https:///)
+- [Repo](https://github.com/JuanPabloDiaz/2021-Platzi)
+- [](https:///)
+- [](https:///)
+- [](https:///)
+- [](https:///)
 
 <p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
 
 <!-- SCHOOL PROJECTS -->
+
 ### School Portfolio 🏫
 
 This section list some of early projects while I was studing for my A.A.S in Web Technologies at CPCC.
 
-* [DACA](https://juanpablodiaz.github.io/2018/DACA/index.html)
-* [One Page Web](https://reactjs.org/)
-* [Portfolio (2018-20)](https://juanpablodiaz.github.io/)
-* [:bike:](https:///)
-* [My Hobby](https://juanpablodiaz.github.io/WEB_Intership2019/scrollTemp.html)
-* [2018- Web Project/](https://juanpablodiaz.github.io/2018/web110/project/index.html)
-* [VicRodri (e-Comerce)](https://juanpablodiaz.github.io/2018/!brandVicRodri/index.html)
-* [](https:///)
+- [DACA](https://juanpablodiaz.github.io/2018/DACA/index.html)
+- [One Page Web](https://reactjs.org/)
+- [Portfolio (2018-20)](https://juanpablodiaz.github.io/)
+- [](https:///)
+- [My Hobby](https://juanpablodiaz.github.io/WEB_Intership2019/scrollTemp.html)
+- [2018- Web Project/](https://juanpablodiaz.github.io/2018/web110/project/index.html)
+- [VicRodri (e-Comerce)](https://juanpablodiaz.github.io/2018/!brandVicRodri/index.html)
+- [](https:///)
 
 <p align="right">(<a href="#top">⏫ back to top ⏫</a>)</p>
-
 
 ### Web-Page
 
 dkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvb
 
-
 <p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
-
 
 ### Others
 
 ```javascript
 const JuanDiaz = {
   Root: "Bogota" | "Colombia",
-  code: [Javascript, HTML, CSS, Python,],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [Javascript, HTML, CSS, Python],
+  tools: [React, Redux, Node, Storybook, Styled - Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        Web: Platzi.com
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on Javascript"
-}
+    Web: Platzi.com,
+  },
+  challenge: "I am doing the #100DaysOfCode challenge focused on Javascript",
+};
 ```
+
 <img align='right' src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47gzy4xfa4dq1asdzb0xd7hp4w5g4tr178bgnwyw0f&rid=giphy.gif&ct=g" width="430">
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!--
-
-Templates...
-
-
-Hi there 👋
-✨ _special_ ✨
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-icons...
-https://gist.github.com/rxaviers/7360908
-
--->
