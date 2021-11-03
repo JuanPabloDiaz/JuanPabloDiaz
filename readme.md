@@ -8,6 +8,11 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 -->
 
+<!-- Editor de README.md
+
+https://pandao.github.io/editor.md/en.html
+ -->
+
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/JuanPabloDiaz?tab=repositories">
