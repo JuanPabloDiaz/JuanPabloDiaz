@@ -109,12 +109,11 @@ noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=l
 
 This section list a few projects and new skills that I am developing while studing at Platzi.com
 
-- [:soon:](https:///)
 - [Repo](https://github.com/JuanPabloDiaz/2021-Platzi)
+<!-- - [](https:///)
 - [](https:///)
 - [](https:///)
-- [](https:///)
-- [](https:///)
+- [](https:///) -->
 
 <p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
 
@@ -127,11 +126,11 @@ This section list some of early projects while I was studing for my A.A.S in Web
 - [DACA](https://juanpablodiaz.github.io/2018/DACA/index.html)
 - [One Page Web](https://reactjs.org/)
 - [Portfolio (2018-20)](https://juanpablodiaz.github.io/)
-- [](https:///)
 - [My Hobby](https://juanpablodiaz.github.io/WEB_Intership2019/scrollTemp.html)
 - [2018- Web Project/](https://juanpablodiaz.github.io/2018/web110/project/index.html)
 - [VicRodri (e-Comerce)](https://juanpablodiaz.github.io/2018/!brandVicRodri/index.html)
-- [](https:///)
+  <!-- - [](https:///) -->
+  <!-- - [](https:///) -->
 
 <p align="right">(<a href="#top">⏫ back to top ⏫</a>)</p>
 
