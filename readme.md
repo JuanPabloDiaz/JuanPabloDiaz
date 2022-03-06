@@ -65,15 +65,15 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 - 📱 I’m currently working at... ePlus
 - 🌱 I’m currently learning at... [Platzi.com](https://Platzi.com)
 - 📆 I’m currently working on... [FullStack in JavaScript](https://platzi.com/escuela-javascript/)
-- 👯 I’m looking to collaborate on... Startups in Colombia.
+- 👯 I’m looking to collaborate on... a Startup.
 - 🤔 I’m looking for help with... Full-Stack.
-- 💬 Ask me about... Home-Lap & Front-End.
+- 💬 Ask me about... Home-Lap & Front-End, HD, Platzi.
 - 📫 How to reach me... <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="20" alt="linkedin" /></a>
   <a href="https://www.twitter.com/1diazdev" title="twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20" alt="linkedin" /></a>
 - 🎓 Some of My Certificates... can be found at [@DiazJuan!](https://platzi.com/@DiazJuan/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun Fact: ... People mispronounce my name as [/One/](https://www.youtube.com/watch?v=14mwhbIMFVE&t=23s) Diaz.
-- 🚲 Hobbies: ... Home-Lab, DJ, Cyclist & fitness.
+- 🚲 Hobbies: ... Home-Lab, learn something new on Platzi, cyclist & fitness.
   <!--
   icons...
   https://gist.github.com/rxaviers/7360908
@@ -109,11 +109,14 @@ noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=l
 
 This section list a few projects and new skills that I am developing while studing at Platzi.com
 
-- [Repo](https://github.com/JuanPabloDiaz/2021-Platzi)
-<!-- - [](https:///)
-- [](https:///)
-- [](https:///)
-- [](https:///) -->
+- [2021 Repos:](https://github.com/JuanPabloDiaz/2021-Platzi)
+  - [Frontend Developer](https://github.com/JuanPabloDiaz/2021-Platzi/curso-frontend-developer/)
+  - [Javascript](https://github.com/JuanPabloDiaz/2021-Platzi/)
+  - [Git and Github](https://github.com/JuanPabloDiaz/2021-Platzi/)
+- [2022 Repos:](https://github.com/JuanPabloDiaz/2021-Platzi/)
+  - [Datacademy](https://github.com/JuanPabloDiaz/2021-Platzi/)
+  - [HTML & CSS](https://github.com/JuanPabloDiaz/2021-Platzi/)
+  - [Other](https://github.com/JuanPabloDiaz/2021-Platzi/)
 
 <p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
 
