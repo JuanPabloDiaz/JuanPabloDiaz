@@ -120,7 +120,17 @@ This section list a few projects and new skills that I am developing while studi
 
 <p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
 
-<!-- SCHOOL PROJECTS -->
+  <!-- Certificates of chalenges -->
+
+### Platzi Chalenges
+
+This section list some chalenges I have participated in Platzi which require time and dedication along other skills.
+
+- [Datacademy 2022](https://platzi.com/p/DiazJuan/curso/2681-datacademy/diploma/detalle/)
+- [Smart Crypto Investments 2022](https://platzi.com/p/DiazJuan/curso/2787-smart-crypto-investments/diploma/detalle/)
+  <!-- - [](https:///) -->
+
+    <!-- SCHOOL PROJECTS -->
 
 ### School Portfolio 🏫
 
