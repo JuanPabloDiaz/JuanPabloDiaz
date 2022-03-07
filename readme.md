@@ -66,7 +66,8 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 - 🌱 I’m currently learning at... [Platzi.com](https://Platzi.com)
 - 📆 I’m currently working on... [FullStack in JavaScript](https://platzi.com/escuela-javascript/)
 - 👯 I’m looking to collaborate on... a Startup.
-- 🤔 I’m looking for help with... Full-Stack.
+- 🤔 I’m looking for help with... Full-Stack & JS.
+- 🏁 I'm passionate about...
 - 💬 Ask me about... Home-Lap & Front-End, HD, Platzi.
 - 📫 How to reach me... <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="20" alt="linkedin" /></a>
   <a href="https://www.twitter.com/1diazdev" title="twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20" alt="linkedin" /></a>
@@ -110,24 +111,24 @@ noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=l
 This section list a few projects and new skills that I am developing while studing at Platzi.com
 
 - [2021 Repos:](https://github.com/JuanPabloDiaz/2021-Platzi) (Private at the moment)
-  - [Frontend Developer](https://github.com/JuanPabloDiaz/2021-Platzi/curso-frontend-developer/) (Private at the moment)
-  - [Javascript](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private at the moment)
-  - [Git and Github](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private at the moment)
-- [2022 Repos:](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private at the moment)
-  - [Datacademy](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private at the moment)
-  - [HTML & CSS](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private at the moment)
-  - [Other](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private at the moment)
+  - [Frontend Developer](https://github.com/JuanPabloDiaz/2021-Platzi/curso-frontend-developer/) (Private ⛔)
+  - [Javascript](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private ⛔)
+  - [Git and Github](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private ⛔)
+- [2022 Repos:](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private ⛔)
+  - [Datacademy](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private ⛔)
+  - [HTML & CSS](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private ⛔)
+  - [Other](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private ⛔)
 
 <p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
 
   <!-- Certificates of challenges -->
 
-### Platzi challenges
+### Platzi challenges 🚩
 
 This section list some challenges I have participated in Platzi which require time and dedication along other skills.
 
-- [Datacademy 2022](https://platzi.com/p/DiazJuan/curso/2681-datacademy/diploma/detalle/)
-- [Smart Crypto Investments 2022](https://platzi.com/p/DiazJuan/curso/2787-smart-crypto-investments/diploma/detalle/)
+- [Datacademy 2022](https://platzi.com/p/DiazJuan/curso/2681-datacademy/diploma/detalle/) 🏁
+- [Smart Crypto Investments 2022](https://platzi.com/p/DiazJuan/curso/2787-smart-crypto-investments/diploma/detalle/) 🏁
   <!-- - [](https:///) -->
 
     <!-- SCHOOL PROJECTS -->
@@ -147,13 +148,13 @@ This section list some of early projects while I was studing for my A.A.S in Web
 
 <p align="right">(<a href="#top">⏫ back to top ⏫</a>)</p>
 
-### Web-Page
+### Web-Page 🔰
 
 dkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvb
 
 <p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
 
-### Others
+### Others 🎭
 
 ```javascript
 const JuanDiaz = {
