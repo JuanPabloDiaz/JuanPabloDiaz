@@ -75,6 +75,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun Fact: ... People mispronounce my name as [/One/](https://www.youtube.com/watch?v=14mwhbIMFVE&t=23s) Diaz.
 - 🚲 Hobbies: ... Home-Lab, learn something new on Platzi, cyclist & fitness.
+
   <!--
   icons...
   https://gist.github.com/rxaviers/7360908
@@ -168,6 +169,8 @@ const JuanDiaz = {
   challenge: "I am doing the #100DaysOfCode challenge focused on Javascript",
 };
 ```
+
+  <!-- Path: "Charlotte" | "NC", -->
 
 <img align='right' src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47gzy4xfa4dq1asdzb0xd7hp4w5g4tr178bgnwyw0f&rid=giphy.gif&ct=g" width="430">
 
