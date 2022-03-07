@@ -109,22 +109,22 @@ noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=l
 
 This section list a few projects and new skills that I am developing while studing at Platzi.com
 
-- [2021 Repos:](https://github.com/JuanPabloDiaz/2021-Platzi)
-  - [Frontend Developer](https://github.com/JuanPabloDiaz/2021-Platzi/curso-frontend-developer/)
-  - [Javascript](https://github.com/JuanPabloDiaz/2021-Platzi/)
-  - [Git and Github](https://github.com/JuanPabloDiaz/2021-Platzi/)
-- [2022 Repos:](https://github.com/JuanPabloDiaz/2021-Platzi/)
-  - [Datacademy](https://github.com/JuanPabloDiaz/2021-Platzi/)
-  - [HTML & CSS](https://github.com/JuanPabloDiaz/2021-Platzi/)
-  - [Other](https://github.com/JuanPabloDiaz/2021-Platzi/)
+- [2021 Repos:](https://github.com/JuanPabloDiaz/2021-Platzi) (Private at the moment)
+  - [Frontend Developer](https://github.com/JuanPabloDiaz/2021-Platzi/curso-frontend-developer/) (Private at the moment)
+  - [Javascript](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private at the moment)
+  - [Git and Github](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private at the moment)
+- [2022 Repos:](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private at the moment)
+  - [Datacademy](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private at the moment)
+  - [HTML & CSS](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private at the moment)
+  - [Other](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private at the moment)
 
 <p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
 
-  <!-- Certificates of chalenges -->
+  <!-- Certificates of challenges -->
 
-### Platzi Chalenges
+### Platzi challenges
 
-This section list some chalenges I have participated in Platzi which require time and dedication along other skills.
+This section list some challenges I have participated in Platzi which require time and dedication along other skills.
 
 - [Datacademy 2022](https://platzi.com/p/DiazJuan/curso/2681-datacademy/diploma/detalle/)
 - [Smart Crypto Investments 2022](https://platzi.com/p/DiazJuan/curso/2787-smart-crypto-investments/diploma/detalle/)
