@@ -138,7 +138,9 @@ This section list some challenges I have participated in Platzi which require ti
 
 This section list some of early projects while I was studing for my A.A.S in Web Technologies at CPCC.
 
-- [DACA](https://juanpablodiaz.github.io/2018/DACA/index.html)
+<!-- LOS QUE TIENEN EL ✔️ ==> YA LOS REVISE & ESTA DECENTE -->
+
+- [DACA](https://juanpablodiaz.github.io/2018/DACA/index.html) ✔️
 - [One Page Web](https://reactjs.org/)
 - [Portfolio (2018-20)](https://juanpablodiaz.github.io/)
 - [My Hobby](https://juanpablodiaz.github.io/WEB_Intership2019/scrollTemp.html)
@@ -147,7 +149,7 @@ This section list some of early projects while I was studing for my A.A.S in Web
   <!-- - [](https:///) -->
   <!-- - [](https:///) -->
 
-<p align="right">(<a href="#top">⏫ back to top ⏫</a>)</p>
+<p align="right">(<a href="#top">🔺Top 🔺</a>)</p>
 
 ### Web-Page 🔰
 
