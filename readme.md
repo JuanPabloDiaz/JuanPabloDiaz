@@ -136,7 +136,7 @@ This section list some challenges I have participated in Platzi which require ti
 
 ### School Portfolio 🏫
 
-This section list some of early projects while I was studing for my A.A.S in Web Technologies at CPCC🔹 2017-2020.
+This section list some of early projects while I was studing for my A.A.S in Web Technologies at CPCC. 2017-2020
 
 <!-- LOS QUE TIENEN EL ✔️ ==> YA LOS REVISE & ESTA DECENTE -->
 
