@@ -70,7 +70,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 - 🎮 I'm passionate about...Web Development.
 - 💬 Ask me about... Home-Lap & Front-End, HD, Platzi.
 - 📫 How to reach me... <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="20" alt="linkedin" /></a>
-  <a href="https://www.twitter.com/1diazdev" title="twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20" alt="linkedin" /></a>
+  <a href="https://www.twitter.com/1diazdev" title="twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20" alt="twitter" /></a>
 - 🎓 Some of My Certificates... can be found at [@DiazJuan!](https://platzi.com/@DiazJuan/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun Fact: ... People mispronounce my name as [/One/](https://www.youtube.com/watch?v=14mwhbIMFVE&t=23s) Diaz.
