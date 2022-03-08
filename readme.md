@@ -67,7 +67,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 - 📆 I’m currently working on... [FullStack in JavaScript](https://platzi.com/escuela-javascript/)
 - 👯 I’m looking to collaborate on... a Startup.
 - 🤔 I’m looking for help with... Full-Stack & JS.
-- 🏁 I'm passionate about...
+- 🎮 I'm passionate about...Web Development.
 - 💬 Ask me about... Home-Lap & Front-End, HD, Platzi.
 - 📫 How to reach me... <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="20" alt="linkedin" /></a>
   <a href="https://www.twitter.com/1diazdev" title="twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20" alt="linkedin" /></a>
@@ -124,19 +124,19 @@ This section list a few projects and new skills that I am developing while studi
 
   <!-- Certificates of challenges -->
 
-### Platzi challenges 🚩
+### Platzi Challenges 🎲
 
 This section list some challenges I have participated in Platzi which require time and dedication along other skills.
 
-- [Datacademy 2022](https://platzi.com/p/DiazJuan/curso/2681-datacademy/diploma/detalle/) 🏁
-- [Smart Crypto Investments 2022](https://platzi.com/p/DiazJuan/curso/2787-smart-crypto-investments/diploma/detalle/) 🏁
+- [Datacademy 2022](https://platzi.com/p/DiazJuan/curso/2681-datacademy/diploma/detalle/) 📈
+- [Smart Crypto Investments 2022](https://platzi.com/p/DiazJuan/curso/2787-smart-crypto-investments/diploma/detalle/) 📀🏁
   <!-- - [](https:///) -->
 
     <!-- SCHOOL PROJECTS -->
 
 ### School Portfolio 🏫
 
-This section list some of early projects while I was studing for my A.A.S in Web Technologies at CPCC.
+This section list some of early projects while I was studing for my A.A.S in Web Technologies at CPCC🔹 2017-2020.
 
 <!-- LOS QUE TIENEN EL ✔️ ==> YA LOS REVISE & ESTA DECENTE -->
 
@@ -176,4 +176,4 @@ const JuanDiaz = {
 
 <img align='right' src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47gzy4xfa4dq1asdzb0xd7hp4w5g4tr178bgnwyw0f&rid=giphy.gif&ct=g" width="430">
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
