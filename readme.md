@@ -177,3 +177,5 @@ const JuanDiaz = {
 <img align='right' src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47gzy4xfa4dq1asdzb0xd7hp4w5g4tr178bgnwyw0f&rid=giphy.gif&ct=g" width="430">
 
 <p align="right">(<a href="#top">👆 Top 👆</a>)</p>
+
+  <img src="images/JD-game.png" alt="game">
