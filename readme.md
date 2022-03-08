@@ -103,7 +103,7 @@ private access services that are also runinng on the Raspberry:
 noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=linuxserver/jackett " target="_blank " rel="noopener noreferrer ">Jackett</a>…).
 </p>
 
-<p align="right">(<a href="#top">⏫ back to top ⏫</a>)</p>
+<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
 <!-- Platzi -->
 
@@ -120,7 +120,7 @@ This section list a few projects and new skills that I am developing while studi
   - [HTML & CSS](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private ⛔)
   - [Other](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private ⛔)
 
-<p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
+<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
   <!-- Certificates of challenges -->
 
@@ -149,13 +149,13 @@ This section list some of early projects while I was studing for my A.A.S in Web
   <!-- - [](https:///) -->
   <!-- - [](https:///) -->
 
-<p align="right">(<a href="#top">🔺Top 🔺</a>)</p>
+<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
-### Web-Page 🔰
+### Web-Page 🔰🌐
 
 dkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvb
 
-<p align="right">(<a href="#top">⬆️ back to top ⬆️</a>)</p>
+<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
 ### Others 🎭
 
