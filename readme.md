@@ -181,5 +181,3 @@ const JuanDiaz = {
 <p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
   <img src="images/JD-game.png" alt="game">
-
-this is a test
