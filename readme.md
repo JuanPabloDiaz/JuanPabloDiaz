@@ -128,8 +128,10 @@ This section list a few projects and new skills that I am developing while studi
 
 This section list some challenges I have participated in Platzi which require time and dedication along other skills.
 
-- [Datacademy 2022](https://platzi.com/p/DiazJuan/curso/2681-datacademy/diploma/detalle/) 📈
-- [Smart Crypto Investments 2022](https://platzi.com/p/DiazJuan/curso/2787-smart-crypto-investments/diploma/detalle/) 📀🏁
+- [Datacademy 2022](https://deepnote.com/workspace/juandiaz-7746519b-662c-4b7c-b97f-9577567b2970/project/Proyecto-Datacademy-b6457371-4e49-4f83-96ab-1232331cf711/%2FdataProyect%2Ftemplate_proyecto_datacademy.ipynb) (on Deepnote) 📈 | [Certificate ](https://platzi.com/p/DiazJuan/curso/2681-datacademy/diploma/detalle/) ✔️
+- [Crea tu Primera Página web 2022](#) 🌐 | [Certificate ](https://platzi.com/p/DiazJuan/curso/2940-primera-pagina-web-2022-diploma/diploma/detalle/) (missing project)
+
+- [Smart Crypto Investments 2022](https://platzi.com/p/DiazJuan/curso/2787-smart-crypto-investments/diploma/detalle/) 📀🏁 (missing project)
   <!-- - [](https:///) -->
 
     <!-- SCHOOL PROJECTS -->
@@ -179,3 +181,5 @@ const JuanDiaz = {
 <p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
   <img src="images/JD-game.png" alt="game">
+
+this is a test
