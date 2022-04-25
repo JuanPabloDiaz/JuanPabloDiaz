@@ -134,6 +134,15 @@ This section list some challenges I have participated in Platzi which require ti
 - [Smart Crypto Investments 2022](https://platzi.com/p/DiazJuan/curso/2787-smart-crypto-investments/diploma/detalle/) 📀🏁 (missing project)
   <!-- - [](https:///) -->
 
+  <!-- Certificates of challenges -->
+
+### Other Challenges 🎪
+
+This section list other front-end challenges in which I have participated. This are challenges from multiple sites such as [FrontEndMentor](http://frontendmentor.io/), ...
+
+- [QR code component](#url) 📈
+- [Other challenge](#) 🌐
+
     <!-- SCHOOL PROJECTS -->
 
 ### School Portfolio 🏫
