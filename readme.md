@@ -138,9 +138,9 @@ This section list some challenges I have participated in Platzi which require ti
 
 ### Other Challenges 🎪
 
-This section list other front-end challenges in which I have participated. This are challenges from multiple sites such as [FrontEndMentor](http://frontendmentor.io/), ...
+This section list other front-end challenges in which I have participated. This are challenges from multiple sites such as [FrontEndMentor](http://frontendmentor.io/), [FrontEndPractice](https://www.frontendpractice.com/), [cssBattle](https://cssbattle.dev/), [CodeWars](https://www.codewars.com/), and others.
 
-- [QR code component](#url) 📈
+- [QR code component - 2022](https://github.com/JuanPabloDiaz/front-endMentor_challenges) 📈
 - [Other challenge](#) 🌐
 
     <!-- SCHOOL PROJECTS -->
