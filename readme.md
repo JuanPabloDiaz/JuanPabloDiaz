@@ -116,7 +116,7 @@ This section list a few projects and new skills that I am developing while studi
   - [Javascript](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private ⛔)
   - [Git and Github](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private ⛔)
 - [2022 Repos:](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private ⛔)
-  - [Datacademy](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private ⛔)
+  - [Datacademy](https://github.com/JuanPabloDiaz/2022-Platzi/tree/main/datacademy) (Private ⛔)
   - [HTML & CSS](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private ⛔)
   - [Other](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private ⛔)
 
