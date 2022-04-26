@@ -111,13 +111,13 @@ noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=l
 
 This section list a few projects and new skills that I am developing while studing at Platzi.com
 
-- [2021 Repos:](https://github.com/JuanPabloDiaz/2021-Platzi) (Private at the moment)
-  - [Frontend Developer](https://github.com/JuanPabloDiaz/2021-Platzi/curso-frontend-developer/) (Private ⛔)
-  - [Javascript](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private ⛔)
+- [2021 Repos:](https://github.com/JuanPabloDiaz/2021-Platzi)
+  - [Frontend Developer](https://github.com/JuanPabloDiaz/2021-Platzi/tree/main/curso-frontend-developer) ✔️
+  - [Javascript](https://github.com/JuanPabloDiaz/2021-Platzi/tree/main/jsBasico) ✔️
   - [Git and Github](https://github.com/JuanPabloDiaz/2021-Platzi/) (Private ⛔)
 - [2022 Repos:](https://github.com/JuanPabloDiaz/2022-Platzi/) ✔️
   - [Datacademy](https://github.com/JuanPabloDiaz/2022-Platzi/tree/main/datacademy) ✔️
-  - [HTML & CSS](https://github.com/JuanPabloDiaz/2022-Platzi/) (Private ⛔)
+  - [HTML & CSS](https://github.com/JuanPabloDiaz/2022-Platzi/tree/main/definitivoHTMLyCSS) ✔️
   - [Other](https://github.com/JuanPabloDiaz/2022-Platzi/) (Private ⛔)
 
 <p align="right">(<a href="#top">👆 Top 👆</a>)</p>
