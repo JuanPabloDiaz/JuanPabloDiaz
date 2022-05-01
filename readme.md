@@ -111,6 +111,10 @@ noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=l
 
 This section list a few projects and new skills that I am developing while studing at Platzi.com
 
+<!-- REPOS THAT I NEED TO FIX -->
+
+- [PLATZI DAY]()
+
 - [2021 Repos:](https://github.com/JuanPabloDiaz/2021-Platzi)
   - [Frontend Developer](https://github.com/JuanPabloDiaz/2021-Platzi/tree/main/curso-frontend-developer) ✔️
   - [Javascript](https://github.com/JuanPabloDiaz/2021-Platzi/tree/main/jsBasico) ✔️
