@@ -158,8 +158,8 @@ This section list some of early projects while I was studing for my A.A.S in Web
 - [One Page Web](https://reactjs.org/) - react url, not sure why
 - [Portfolio (2018-20)](https://juanpablodiaz.github.io/)
 - [My Hobby](https://juanpablodiaz.github.io/WEB_Intership2019/scrollTemp.html)✔️
-- [2018- Web Project/](https://juanpablodiaz.github.io/2018/web110/project/index.html) (NEEDS TONES OF WORK💥💥)
-- [VicRodri (e-Comerce)](https://juanpablodiaz.github.io/2018/!brandVicRodri/index.html) (NEEDS TONES OF WORK💥💥)
+- [2018- Web Project/](https://juanpablodiaz.github.io/2018/web110/project/index.html) (NEEDS TONS OF WORK💥💥)
+- [VicRodri (e-Comerce)](https://juanpablodiaz.github.io/2018/!brandVicRodri/index.html) (NEEDS TONS OF WORK💥💥)
   <!-- - [](https:///) -->
   <!-- - [](https:///) -->
 
