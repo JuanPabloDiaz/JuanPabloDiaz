@@ -151,7 +151,9 @@ This section list some of early projects while I was studing for my A.A.S in Web
 
 <!-- LOS QUE TIENEN EL ✔️ ==> YA LOS REVISE & ESTA DECENTE -->
 
-- [DACA](https://juanpablodiaz.github.io/2018/DACA/index.html) ✔️
+- [DACA](https://juanpablodiaz.github.io/2018/DACA/index.html) (Merge)
+- [DACA mejor](https://juanpablodiaz.github.io/2018/web140/DACA/) (Merge)
+- [Web210](https://juanpablodiaz.github.io/web210) (needs work)
 - [One Page Web](https://reactjs.org/) - react url, not sure why
 - [Portfolio (2018-20)](https://juanpablodiaz.github.io/)
 - [My Hobby](https://juanpablodiaz.github.io/WEB_Intership2019/scrollTemp.html)
