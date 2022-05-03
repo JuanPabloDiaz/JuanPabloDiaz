@@ -116,7 +116,7 @@ This section list a few projects and new skills that I am developing while studi
 - [Platzi Day](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/definitivoHTMLyCSS/web2022Challenges) - repo ✔️
 
 - [2021 Repos:](https://github.com/JuanPabloDiaz/platzi/tree/main/2021) ✔️
-  - [Frontend Developer](https://github.com/JuanPabloDiaz/2021-Platzi/tree/main/curso-frontend-developer) ✔️
+  - [Frontend Developer](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/frontendDeveloper) ✔️
   - [Javascript](https://github.com/JuanPabloDiaz/2021-Platzi/tree/main/jsBasico) ✔️
   - [Git and Github](https://github.com/JuanPabloDiaz/hyperblog) ✔️
 - [2022 Repos:](https://github.com/JuanPabloDiaz/platzi/tree/main/2022) ✔️
