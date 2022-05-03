@@ -113,13 +113,13 @@ This section list a few projects and new skills that I am developing while studi
 
 <!-- REPOS THAT I NEED TO FIX -->
 
-- [Platzi Day](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/definitivoHTMLyCSS/web2022Challenges) - repo
+- [Platzi Day](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/definitivoHTMLyCSS/web2022Challenges) - repo ✔️
 
-- [2021 Repos:](https://github.com/JuanPabloDiaz/2021-Platzi)
+- [2021 Repos:](https://github.com/JuanPabloDiaz/platzi/tree/main/2021) ✔️
   - [Frontend Developer](https://github.com/JuanPabloDiaz/2021-Platzi/tree/main/curso-frontend-developer) ✔️
   - [Javascript](https://github.com/JuanPabloDiaz/2021-Platzi/tree/main/jsBasico) ✔️
   - [Git and Github](https://github.com/JuanPabloDiaz/hyperblog) ✔️
-- [2022 Repos:](https://github.com/JuanPabloDiaz/2022-Platzi/) ✔️
+- [2022 Repos:](https://github.com/JuanPabloDiaz/platzi/tree/main/2022) ✔️
   - [Datacademy](https://github.com/JuanPabloDiaz/2022-Platzi/tree/main/datacademy) ✔️
   - [HTML & CSS](https://github.com/JuanPabloDiaz/2022-Platzi/tree/main/definitivoHTMLyCSS) ✔️
   - [Other](https://github.com/JuanPabloDiaz/2022-Platzi/) (Private ⛔)
