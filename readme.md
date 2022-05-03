@@ -117,12 +117,12 @@ This section list a few projects and new skills that I am developing while studi
 
 - [2021 Repos:](https://github.com/JuanPabloDiaz/platzi/tree/main/2021) ✔️
   - [Frontend Developer](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/frontendDeveloper) ✔️
-  - [Javascript](https://github.com/JuanPabloDiaz/2021-Platzi/tree/main/jsBasico) ✔️
+  - [Javascript](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/jsBasico) ✔️
   - [Git and Github](https://github.com/JuanPabloDiaz/hyperblog) ✔️
 - [2022 Repos:](https://github.com/JuanPabloDiaz/platzi/tree/main/2022) ✔️
-  - [Datacademy](https://github.com/JuanPabloDiaz/2022-Platzi/tree/main/datacademy) ✔️
-  - [HTML & CSS](https://github.com/JuanPabloDiaz/2022-Platzi/tree/main/definitivoHTMLyCSS) ✔️
-  - [Other](https://github.com/JuanPabloDiaz/2022-Platzi/) (Private ⛔)
+  - [Datacademy](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/datacademy) ✔️
+  - [HTML & CSS](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/definitivoHTMLyCSS) ✔️
+  - [Other](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/) (Private ⛔)
 
 <p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
