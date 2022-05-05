@@ -76,6 +76,8 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 - ⚡ Fun Fact: ... People mispronounce my name as [/One/](https://www.youtube.com/watch?v=14mwhbIMFVE&t=23s) Diaz.
 - 🚲 Hobbies: ... Home-Lab, learn something new on Platzi, cyclist & fitness.
 
+<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
+
   <!--
   icons...
   https://gist.github.com/rxaviers/7360908
@@ -103,8 +105,6 @@ private access services that are also runinng on the Raspberry:
 noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=linuxserver/jackett " target="_blank " rel="noopener noreferrer ">Jackett</a>…).
 </p>
 
-<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
-
 <!-- Platzi -->
 
 ### Platzi Portfolio 💼
@@ -113,7 +113,6 @@ This section list a few projects and new skills that I am developing while studi
 
 <!-- REPOS THAT I NEED TO FIX -->
 
-- [Platzi Day](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/definitivoHTMLyCSS/web2022Challenges) - repo ✔️
 
 - [2021 Repos:](https://github.com/JuanPabloDiaz/platzi/tree/main/2021) ✔️
   - [Frontend Developer](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/frontendDeveloper) ✔️
@@ -133,9 +132,15 @@ This section list a few projects and new skills that I am developing while studi
 This section list some challenges I have participated in Platzi which require time and dedication along other skills.
 
 - [Datacademy 2022](https://deepnote.com/workspace/juandiaz-7746519b-662c-4b7c-b97f-9577567b2970/project/Proyecto-Datacademy-b6457371-4e49-4f83-96ab-1232331cf711/%2FdataProyect%2Ftemplate_proyecto_datacademy.ipynb) (on Deepnote) 📈 | [Certificate ](https://platzi.com/p/DiazJuan/curso/2681-datacademy/diploma/detalle/) ✔️
-- [Crea tu Primera Página web 2022](#) 🌐 | [Certificate ](https://platzi.com/p/DiazJuan/curso/2940-primera-pagina-web-2022-diploma/diploma/detalle/) (missing project)
 
-- [Smart Crypto Investments 2022](https://platzi.com/p/DiazJuan/curso/2787-smart-crypto-investments/diploma/detalle/) 📀🏁 (missing project)
+- [Crea tu Primera Página web 2022 (repo)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/definitivoHTMLyCSS/web2022Challenges) 🌐 | [Certificate ](https://platzi.com/p/DiazJuan/curso/2940-primera-pagina-web-2022-diploma/diploma/detalle/) ✔️
+
+- [Crea tu Portafolio como Web Developer](https://platzi.com/blog/portafolio-web-2022/) 🎬 | [Certificate ](#)  (Current Project)
+
+- Smart Crypto Investments 2022 📀 [Certificate ](https://platzi.com/p/DiazJuan/curso/2787-smart-crypto-investments/diploma/detalle/) ✔️
+
+
+
   <!-- - [](https:///) -->
 
   <!-- Certificates of challenges -->
@@ -167,8 +172,6 @@ This section list some of early projects while I was studing for my A.A.S in Web
   <!-- - [](https:///) -->
   <!-- - [](https:///) -->
 
-<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
-
 ### Web-Page 🔰🌐
 
 dkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvb
@@ -194,6 +197,6 @@ const JuanDiaz = {
 
 <img align='right' src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47gzy4xfa4dq1asdzb0xd7hp4w5g4tr178bgnwyw0f&rid=giphy.gif&ct=g" width="430">
 
-<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
-
   <img src="images/JD-game.png" alt="game">
+
+<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
