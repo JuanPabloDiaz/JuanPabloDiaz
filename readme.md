@@ -38,8 +38,8 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
     <div>✔️ Disciplined</div>
     <div>✔️ Detail-oriented</div>
     <div>✔️ Customer Service</div>
-    <div>:heavy_check_mark: Adaptability</div>
-    <div>:heavy_check_mark: Bilingual</div>
+    <div>✔️ Adaptability</div>
+    <div>✔️ Bilingual</div>
     <div>✔️ Frond-End</div>
 
   </ul>
@@ -88,7 +88,6 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 
 ### Most Recent Projects 💥💥
 
-:construction:
 
 #### Home Server 💻
 
@@ -121,7 +120,6 @@ This section list a few projects and new skills that I am developing while studi
 - [2022 Repos:](https://github.com/JuanPabloDiaz/platzi/tree/main/2022) ✔️
   - [Datacademy](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/datacademy) ✔️
   - [HTML & CSS](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/definitivoHTMLyCSS) ✔️
-  - [Other](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/) (Private ⛔)
 
 <p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
@@ -135,7 +133,7 @@ This section list some challenges I have participated in Platzi which require ti
 
 - [Crea tu Primera Página web 2022 (repo)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/definitivoHTMLyCSS/web2022Challenges) 🌐 | [Certificate ](https://platzi.com/p/DiazJuan/curso/2940-primera-pagina-web-2022-diploma/diploma/detalle/) ✔️
 
-- [Crea tu Portafolio como Web Developer](https://platzi.com/blog/portafolio-web-2022/) 🎬 | [Certificate ](#)  (Current Project)
+- [Crea tu Portafolio como Web Developer](https://platzi.com/blog/portafolio-web-2022/) 🎬 | [Certificate ](#)  (Current Project) 🚧
 
 - Smart Crypto Investments 2022 📀 [Certificate ](https://platzi.com/p/DiazJuan/curso/2787-smart-crypto-investments/diploma/detalle/) ✔️
 
@@ -160,21 +158,21 @@ This section list some of early projects while I was studing for my A.A.S in Web
 
 <!-- LOS QUE TIENEN EL ✔️ ==> YA LOS REVISE & ESTA DECENTE -->
 
-- [DACA](https://juanpablodiaz.github.io/2018/DACA/index.html) (Merge)
-- [DACA mejor](https://juanpablodiaz.github.io/2018/web140/DACA/) (Merge)
+- [DACA](https://juanpablodiaz.github.io/2018/DACA/index.html) (Merge) 🚧
+- [DACA mejor](https://juanpablodiaz.github.io/2018/web140/DACA/) (Merge) 🚧
 - [Web210](https://juanpablodiaz.github.io/web210) (needs work, PERO ME ENCANTA!) ✔️
 - [Mr Robot project](https://juanpablodiaz.github.io/2021/mrRobot/) (Cool!) ✔️
-- [One Page Web](https://reactjs.org/) - react url, not sure why
-- [Portfolio (2018-20)](https://juanpablodiaz.github.io/)
+- [One Page Web](https://reactjs.org/) - react url, not sure why 🚧
+- [Portfolio (2018-20)](https://juanpablodiaz.github.io/) 🚧
 - [My Hobby](https://juanpablodiaz.github.io/WEB_Intership2019/scrollTemp.html)✔️
-- [2018- Web Project/](https://juanpablodiaz.github.io/2018/web110/project/index.html) (NEEDS TONS OF WORK💥💥)
-- [VicRodri (e-Comerce)](https://juanpablodiaz.github.io/2018/!brandVicRodri/index.html) (NEEDS TONS OF WORK💥💥)
+- [2018- Web Project/](https://juanpablodiaz.github.io/2018/web110/project/index.html) (NEEDS TONS OF WORK💥💥) 🚧
+- [VicRodri (e-Comerce)](https://juanpablodiaz.github.io/2018/!brandVicRodri/index.html) (NEEDS TONS OF WORK💥💥) 🚧
   <!-- - [](https:///) -->
   <!-- - [](https:///) -->
 
 ### Web-Page 🔰🌐
 
-dkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvb
+dkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvbdkhaskfhsadkjfhsdlfgyerhfkjnsdvnalvbvb 🚧
 
 <p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
