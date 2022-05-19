@@ -64,10 +64,10 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 
 - 📱 I’m currently working at... ePlus
 - 🌱 I’m currently learning at... [Platzi.com](https://Platzi.com)
-- 📆 I’m currently working on... [FullStack in JavaScript](https://platzi.com/escuela-javascript/)
-- 👯 I’m looking to collaborate on... a Startup.
-- 🤔 I’m looking for help with... Full-Stack & JS.
-- 🎮 I'm passionate about...Web Development.
+- 📆 I’m currently working on... ⚡HTML5 | ⚡CSS3 | ⚡Javascript | ⚡Angular
+- 👯 I’m looking to collaborate on a... Startup.
+- 🤔 I’m looking for help with... FrontEnd.
+- 🎮 I'm passionate about... Web Development ⏳︎ NeverStopLearning.
 - 💬 Ask me about... Home-Lap & Front-End, HD, Platzi.
 - 📫 How to reach me... <a href="https://www.linkedin.com/in/juandiaz-col/" title="linkedin"><img src="https://www.freepnglogos.com/uploads/linkedin-social-media-logo-7.png" width="20" alt="linkedin" /></a>
   <a href="https://www.twitter.com/1diazdev" title="twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20" alt="twitter" /></a>
