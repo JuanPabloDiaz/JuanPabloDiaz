@@ -60,6 +60,23 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 
 <hr>
 
+## Dev Skills
+
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/whatis/whatis_html.asp)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/whatis/whatis_css.asp)
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/whatis/whatis_js.asp)
+[![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://www.w3schools.com/nodejs/default.asp)
+[![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.w3schools.com/whatis/whatis_react.asp)
+[![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=Php&logoColor=white)](https://www.w3schools.com/php/default.asp)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffca28)](https://www.w3schools.com/python/default.asp)
+[![Vue.js](https://img.shields.io/badge/Vue-184D66?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)](https://www.w3schools.com/whatis/whatis_vue.asp)
+[![Angular](https://img.shields.io/badge/Angular-222?style=for-the-badge&logo=Angular&logoColor=DD0031)](https://www.w3schools.com/whatis/whatis_angularjs.asp)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-2F2625?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)](https://www.w3schools.com/whatis/whatis_bootstrap.asp)
+[![JSON](https://img.shields.io/badge/Json-41454A?style=for-the-badge&logo=Json&logoColor=000)](https://www.w3schools.com/whatis/whatis_json.asp)
+[![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown&logoColor=FEFEFE)](https://www.w3schools.com/whatis/whatis_json.asp)
+<hr>
+
 ## About Me
 
 - 📱 I’m currently working at... ePlus
