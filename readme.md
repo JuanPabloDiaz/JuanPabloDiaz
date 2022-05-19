@@ -63,7 +63,8 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 ## About Me
 
 - 📱 I’m currently working at... ePlus
-- 🌱 I’m currently learning at... [Platzi.com](https://Platzi.com)
+- 🌱 I’m currently learning at... [![](https://img.shields.io/badge/Platzi-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/)
+
 - 📆 I’m currently working on... ⚡HTML5 | ⚡CSS3 | ⚡Javascript | ⚡Angular
 - 👯 I’m looking to collaborate on a... Startup.
 - 🤔 I’m looking for help with... FrontEnd.
@@ -73,7 +74,8 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/1diazdev/)
 [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
 [![](https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=Mail.Ru&logoColor=06B6D4)](mailto:jdiaz028@email.cpcc.edu)
-- 🎓 Some of My Certificates... can be found at [@DiazJuan!](https://platzi.com/@DiazJuan/)
+- 🎓 Some of My Certificates... can be found at [![](https://img.shields.io/badge/Platzi_Profile-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/p/DiazJuan/)
+
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun Fact: ... People mispronounce my name as [/One/](https://www.youtube.com/watch?v=14mwhbIMFVE&t=23s) Diaz.
 - 🚲 Hobbies: ... Home-Lab, learn something new on Platzi, cyclist & fitness.
