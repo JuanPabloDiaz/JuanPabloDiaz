@@ -117,6 +117,10 @@ This section list a few projects and new skills that I am developing while studi
 <!-- REPOS THAT I NEED TO FIX -->
 
 
+![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
+[![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
+[![](https://img.shields.io/badge/2022-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
+
 - [2021 Repos:](https://github.com/JuanPabloDiaz/platzi/tree/main/2021) ✔️
   - [Frontend Developer](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/frontendDeveloper) ✔️
   - [Javascript](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/jsBasico) ✔️
