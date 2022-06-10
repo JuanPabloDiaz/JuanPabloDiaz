@@ -60,7 +60,9 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 
 <hr>
 
-## Dev Skills
+## 🎯 Some technologies I use:
+
+<div align="center">
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/whatis/whatis_html.asp)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/whatis/whatis_css.asp)
@@ -75,6 +77,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-2F2625?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)](https://www.w3schools.com/whatis/whatis_bootstrap.asp)
 [![JSON](https://img.shields.io/badge/Json-41454A?style=for-the-badge&logo=Json&logoColor=000)](https://www.w3schools.com/whatis/whatis_json.asp)
 [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown&logoColor=FEFEFE)](https://www.w3schools.com/whatis/whatis_json.asp)
+</div>
 <hr>
 
 ## About Me
