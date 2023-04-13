@@ -1,7 +1,5 @@
 <div id="top"></div>
 
-<!-- THIS IS A REALLY GOOD README... -->
-
 <!--
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
