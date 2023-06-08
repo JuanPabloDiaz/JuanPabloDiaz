@@ -183,12 +183,18 @@ This section list other front-end challenges in which I have participated. This 
 
 This section list some of early projects while I was studing for my A.A.S in Web Technologies at CPCC. 2017-2020
 
+- [Portfolio (2018-20)](https://juanpablodiaz.github.io/) 🚧
+
 <!-- LOS QUE TIENEN EL ✔️ ==> YA LOS REVISE & ESTA DECENTE -->
 
-- [Mr Robot project](https://juanpablodiaz.github.io/2021/mrRobot/) (Cool!) ✔️
-- [Portfolio (2018-20)](https://juanpablodiaz.github.io/) 🚧
-  <!-- - [](https:///) -->
-  <!-- - [](https:///) -->
+Other cool projects
+
+- 2021:
+  - [Mr Robot](https://juanpablodiaz.github.io/2021/mrRobot/) (Cool!) ✔️
+- 2023:
+  - [Matrix - ](https://juanpablodiaz.github.io/2023/matrix/) (Cool!) ✔️
+  - [QR code - 2023](https://juanpablodiaz.github.io/2023/text2qr/) (Cool!) ✔️
+    <!-- - [](https:///) -->
 
 ### Web-Page 🔰🌐
 
