@@ -152,7 +152,22 @@ This section list a few projects and new skills that I am developing while studi
 
 <p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
-  <!-- Certificates of challenges -->
+### Other Cool Projects
+
+- 2021:
+  - [Mr Robot](https://juanpablodiaz.github.io/2021/mrRobot/) (Cool!) ✔️
+- 2023:
+  - [Matrix - ](https://juanpablodiaz.github.io/2023/matrix/) (Cool!) ✔️
+  - [QR code - 2023](https://juanpablodiaz.github.io/2023/text2qr/) (Cool!) ✔️
+      <!-- - [](https:///) -->
+    <!-- Certificates of challenges -->
+
+Projects in React
+
+- [Portfolio](https://portfolio-react-template-juanpablodiaz.vercel.app/) (Current Project) 🚧
+- [Pinterest-clone-react](https://pinterest-clone-react.vercel.app/)
+- [Portafolio TEMPLATE](https://portfolio-react-youtube.vercel.app/)
+  <!-- - [](https:///) -->
 
 ### Platzi Challenges 🎲
 
@@ -187,18 +202,9 @@ This section list some of early projects while I was studing for my A.A.S in Web
 
 <!-- LOS QUE TIENEN EL ✔️ ==> YA LOS REVISE & ESTA DECENTE -->
 
-Other cool projects
-
-- 2021:
-  - [Mr Robot](https://juanpablodiaz.github.io/2021/mrRobot/) (Cool!) ✔️
-- 2023:
-  - [Matrix - ](https://juanpablodiaz.github.io/2023/matrix/) (Cool!) ✔️
-  - [QR code - 2023](https://juanpablodiaz.github.io/2023/text2qr/) (Cool!) ✔️
-    <!-- - [](https:///) -->
-
 ### Web-Page 🔰🌐
 
-Since May 2023, jpdiaz.dev is my official website. It is currently under construction 🚧
+Since May 2023, [jpdiaz.dev]() is my official website. It is currently under construction 🚧
 
 <p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
