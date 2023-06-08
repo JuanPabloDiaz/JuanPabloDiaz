@@ -41,7 +41,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
     <div>✔️ Customer Service</div>
     <div>✔️ Adaptability</div>
     <div>✔️ Bilingual</div>
-    <div>✔️ Frond-End</div>
+    <div>✔️ Frond End</div>
 
   </ul>
 
@@ -78,27 +78,26 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-2F2625?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)](https://www.w3schools.com/whatis/whatis_bootstrap.asp)
 [![JSON](https://img.shields.io/badge/Json-41454A?style=for-the-badge&logo=Json&logoColor=000)](https://www.w3schools.com/whatis/whatis_json.asp)
 [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown&logoColor=FEFEFE)](https://www.w3schools.com/whatis/whatis_json.asp)
+
 </div>
 <hr>
 
 ## About Me
 
-- 📱 I’m currently working at... ePlus
+- 📱 I’m currently working at... jpdiaz.dev
 - 🌱 I’m currently learning at... [![](https://img.shields.io/badge/Platzi-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/)
 
-- 📆 I’m currently working on... ⚡HTML5 | ⚡CSS3 | ⚡Javascript | ⚡Angular
+- 📆 I’m currently working on... ⚡HTML5 | ⚡CSS3 | ⚡Javascript | ⚡React
 - 👯 I’m looking to collaborate on a... Startup.
-- 🤔 I’m looking for help with... FrontEnd.
+- 🤔 I’m looking for help with... Front End.
 - 🎮 I'm passionate about... Web Development ⏳︎ NeverStopLearning.
 - 💬 Ask me about... Home-Lap & Front-End, HD, Platzi.
-- 📫 How to reach me... 
-[![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/1diazdev/)
-[![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
-[![](https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=Mail.Ru&logoColor=06B6D4)](mailto:jdiaz028@email.cpcc.edu)
+- 📫 How to reach me...
+  [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/1diazdev/)
+  [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
+  [![](https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=Mail.Ru&logoColor=06B6D4)](mailto:juan.diaz93@hotmail.com)
 - 🎓 Some of My Certificates... can be found at [![](https://img.shields.io/badge/Platzi_Profile-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/p/DiazJuan/)
 
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun Fact: ... People mispronounce my name as [/One/](https://www.youtube.com/watch?v=14mwhbIMFVE&t=23s) Diaz.
 - 🚲 Hobbies: ... Home-Lab, learn something new on Platzi, cyclist & fitness.
 
 <p align="right">(<a href="#top">👆 Top 👆</a>)</p>
@@ -112,7 +111,6 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 ## Projects 🚀
 
 ### Most Recent Projects 💥💥
-
 
 #### Home Server 💻
 
@@ -137,7 +135,6 @@ This section list a few projects and new skills that I am developing while studi
 
 <!-- REPOS THAT I NEED TO FIX -->
 
-
 ![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
 [![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
 [![](https://img.shields.io/badge/2022-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
@@ -147,8 +144,11 @@ This section list a few projects and new skills that I am developing while studi
   - [Javascript](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/jsBasico) ✔️
   - [Git and Github](https://github.com/JuanPabloDiaz/hyperblog) ✔️
 - [2022 Repos:](https://github.com/JuanPabloDiaz/platzi/tree/main/2022) ✔️
+
   - [Datacademy](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/datacademy) ✔️
   - [HTML & CSS](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/definitivoHTMLyCSS) ✔️
+
+- [2023 Repos:](https://github.com/JuanPabloDiaz/platzi/tree/main/2023) ✔️
 
 <p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
@@ -162,11 +162,9 @@ This section list some challenges I have participated in Platzi which require ti
 
 - [Crea tu Primera Página web 2022 (repo)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/definitivoHTMLyCSS/web2022Challenges) 🌐 | [Certificate ](https://platzi.com/p/DiazJuan/curso/2940-primera-pagina-web-2022-diploma/diploma/detalle/) ✔️
 
-- [Crea tu Portafolio como Web Developer](https://platzi.com/blog/portafolio-web-2022/) 🎬 | [Certificate ](#)  (Current Project) 🚧
+- [Crea tu Portafolio como Web Developer](https://platzi.com/blog/portafolio-web-2022/) 🎬 | [Certificate ](#) (Current Project) 🚧
 
 - Smart Crypto Investments 2022 📀 [Certificate ](https://platzi.com/p/DiazJuan/curso/2787-smart-crypto-investments/diploma/detalle/) ✔️
-
-
 
   <!-- - [](https:///) -->
 
@@ -187,15 +185,8 @@ This section list some of early projects while I was studing for my A.A.S in Web
 
 <!-- LOS QUE TIENEN EL ✔️ ==> YA LOS REVISE & ESTA DECENTE -->
 
-- [DACA](https://juanpablodiaz.github.io/2018/DACA/index.html) (Merge) 🚧
-- [DACA mejor](https://juanpablodiaz.github.io/2018/web140/DACA/) (Merge) 🚧
-- [Web210](https://juanpablodiaz.github.io/web210) (needs work, PERO ME ENCANTA!) ✔️
 - [Mr Robot project](https://juanpablodiaz.github.io/2021/mrRobot/) (Cool!) ✔️
-- [One Page Web](https://reactjs.org/) - react url, not sure why 🚧
 - [Portfolio (2018-20)](https://juanpablodiaz.github.io/) 🚧
-- [My Hobby](https://juanpablodiaz.github.io/WEB_Intership2019/scrollTemp.html)✔️
-- [2018- Web Project/](https://juanpablodiaz.github.io/2018/web110/project/index.html) (NEEDS TONS OF WORK💥💥) 🚧
-- [VicRodri (e-Comerce)](https://juanpablodiaz.github.io/2018/!brandVicRodri/index.html) (NEEDS TONS OF WORK💥💥) 🚧
   <!-- - [](https:///) -->
   <!-- - [](https:///) -->
 
