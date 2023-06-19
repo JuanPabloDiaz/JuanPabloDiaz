@@ -81,28 +81,15 @@ Passionate about full stack web dev, seeking startup for growth. Values discipli
 
 ## Projects 🚀
 
-### Most Recent Projects 💥💥
+<!-- ### Most Recent Projects 💥💥 -->
 
-#### Home Server 💻
-
-💾 Project [Documentation](https://juanpablodiaz.github.io/SelfHosting-PiServer/)
-
-:link: [Visit my GitHub repository](https://github.com/JuanPabloDiaz/SelfHosting-PiServer) to see all the source code for this project.
-
-<p>
-The structure and documentation is saved on an HTML file, the design on a CSS file and the user's interface on a Javascript file. All files are served through <a href="https://www.nginx.com/ " target="_blank " rel="noopener noreferrer ">NGINX</a>, which runs in a wonderful
-<a href="https://github.com/linuxserver/docker-letsencrypt " target="_blank " rel="noopener noreferrer ">docker container</a> that is used as a reverse proxy with other
-private access services that are also runinng on the Raspberry:
-( <a href="https://nextcloud.com/ " target="_blank " rel="noopener noreferrer ">Nextcloud</a>, <a href="https://portainer.com " target="_blank " rel="noopener noreferrer ">Portainer</a>, <a href="https://hub.docker.com/r/b4bz/homer
-" target="_blank " rel="noopener noreferrer ">Homer</a>, <a href="https://pi-hole.net/ " target="_blank " rel="noopener noreferrer ">Pi-hole</a>, <a href="https://github.com/linuxserver/docker-qbittorrent " target="_blank " rel="noopener
-noreferrer ">qBittorrent</a>, <a href="https://fleet.linuxserver.io/image?name=linuxserver/jackett " target="_blank " rel="noopener noreferrer ">Jackett</a>…).
-</p>
+#### Home Server 💻 [Live Demo](https://pi.jpdiaz.dev) | :link: [Visit my GitHub repository](https://github.com/JuanPabloDiaz/SelfHosting-PiServer).
 
 <!-- Platzi -->
 
 ### Platzi Portfolio 💼
 
-This section list a few projects and new skills that I am developing while studing at Platzi.com
+In this section, I will list a few projects and new skills that I am developing while studying at Platzi.com.
 
 <!-- REPOS THAT I NEED TO FIX -->
 
