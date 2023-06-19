@@ -30,43 +30,9 @@ https://www.notion.so/GitHub-Tools-Edit-readme-a55ee707b3914b88b9a92a7a104b3b6c
 Passionate about full stack web dev, seeking startup for growth. Values discipline, loyalty, reliability, self-motivation. Enjoys learning new skills.</p>
 </div>
 
-<div>
-<!-- My Skills -->
-  <h3>Skills</h3>
-<img align='right' src="https://media4.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif?cid=ecf05e47gzy4xfa4dq1asdzb0xd7hp4w5g4tr178bgnwyw0f&rid=giphy.gif&ct=g" width="430">
-  <ul>
-    <div>✔️ Problem solving skills</div>
-    <div>✔️ Critical thinking</div>
-    <div>✔️ Time Management</div>
-    <div>✔️ Disciplined</div>
-    <div>✔️ Detail-oriented</div>
-    <div>✔️ Customer Service</div>
-    <div>✔️ Adaptability</div>
-    <div>✔️ Bilingual</div>
-    <div>✔️ Frond End</div>
+<!-- ### 🎯 Some technologies I use: -->
 
-  </ul>
-
-<br>
-<!-- Job Description -->
-<!-- <details>
-  <summary><b>Current Job Description 💰</b></summary>
-  <ul>
-    <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
-  <li>Provides remote assistance with software deployment, and system configuration.</li>
-  <li>Effectively communicate with a variety of departments.</li>
-  <li>Proactively investigate and resolve end user problems/complications. </li>
-  <li>Adaptability to multiple enterprise environments.Following a process oriented approach. </li>
-  <li>Utilizes problem solving skills to find solutions to unusual issues. </li>
-  </ul>
-</details> -->
-</div>
-
-<hr>
-
-## 🎯 Some technologies I use:
-
-<div align="center">
+<div align="justify">
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/whatis/whatis_html.asp)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/whatis/whatis_css.asp)
@@ -85,9 +51,11 @@ Passionate about full stack web dev, seeking startup for growth. Values discipli
 </div>
 <hr>
 
+<img align='right' src="https://media4.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif?cid=ecf05e47gzy4xfa4dq1asdzb0xd7hp4w5g4tr178bgnwyw0f&rid=giphy.gif&ct=g" width="200">
+
 ## About Me
 
-- 📱 I’m currently working at... jpdiaz.dev
+- 📱 I’m currently working in my official site... [jpdiaz.dev](https://jpdiaz.dev/)
 - 🌱 I’m currently learning at... [![](https://img.shields.io/badge/Platzi-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/)
 
 - 📆 I’m currently working on... ⚡HTML5 | ⚡CSS3 | ⚡Javascript | ⚡React
@@ -99,7 +67,7 @@ Passionate about full stack web dev, seeking startup for growth. Values discipli
   [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/1diazdev/)
   [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
   [![](https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=Mail.Ru&logoColor=06B6D4)](mailto:juan.diaz93@hotmail.com)
-- 🎓 Some of My Certificates... can be found at [![](https://img.shields.io/badge/Platzi_Profile-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/p/DiazJuan/)
+- 🎓 My Certificates... [![](https://img.shields.io/badge/Platzi_Profile-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/p/DiazJuan/)
 
 - 🚲 Hobbies: ... Home-Lab, learn something new on Platzi, cyclist & fitness.
 
