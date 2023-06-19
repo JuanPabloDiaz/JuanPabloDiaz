@@ -45,8 +45,9 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
 
   </ul>
 
+<br>
 <!-- Job Description -->
-<details>
+<!-- <details>
   <summary><b>Current Job Description 💰</b></summary>
   <ul>
     <li>Handles technical troubleshooting within an enterprise environment. Navigates common issues such as user administration, network outages, network printers, IP phones and enterprise tools.</li>
@@ -56,7 +57,7 @@ My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I a
   <li>Adaptability to multiple enterprise environments.Following a process oriented approach. </li>
   <li>Utilizes problem solving skills to find solutions to unusual issues. </li>
   </ul>
-</details>
+</details> -->
 </div>
 
 <hr>
