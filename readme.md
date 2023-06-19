@@ -157,6 +157,8 @@ This section list a few projects and new skills that I am developing while studi
 
 ### Other Cool Projects
 
+<img align='right' src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47gzy4xfa4dq1asdzb0xd7hp4w5g4tr178bgnwyw0f&rid=giphy.gif&ct=g" width="430">
+
 - 2021:
   - [Mr Robot](https://juanpablodiaz.github.io/2021/mrRobot/) (Cool!) ✔️
 - 2023:
@@ -226,8 +228,6 @@ const JuanDiaz = {
 ``` -->
 
   <!-- Path: "Charlotte" | "NC", -->
-
-<img align='right' src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47gzy4xfa4dq1asdzb0xd7hp4w5g4tr178bgnwyw0f&rid=giphy.gif&ct=g" width="430">
 
   <img src="images/JD-game.png" alt="game">
 
