@@ -24,6 +24,8 @@ https://www.notion.so/GitHub-Tools-Edit-readme-a55ee707b3914b88b9a92a7a104b3b6c
 
 # Hello 👋
 
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> my name is Juan and I am a front end developer
+
 <p align="justify">
 My name is <img src="images/juanDiazNombre.png" alt="Juan Diaz" width="65">. I am originally from Colombia, but recently moved to Asheville, NC. :us: I have completed an A.A.S in Web Technologies at Central Piedmont Community College in Charlotte, NC. I enjoy developing new skills in both front and back-end development and I am passionate about Full stack Web Development. Currently, I have a few years of experience as a Service Desk Analyst. However, I am looking forward to working with a Startup company that allows for professional and personal growth.  I value discipline, loyalty, reliability, and self-motivation above all else.</p>
 </div>
@@ -209,7 +211,7 @@ This section list some of early projects while I was studing for my A.A.S in Web
 - My Documentation website is [docs.jpdiaz.dev](https://docs.jpdiaz.dev/)
 <p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
-### Others 🎭
+<!-- ### Others 🎭
 
 ```javascript
 const JuanDiaz = {
@@ -222,7 +224,7 @@ const JuanDiaz = {
   },
   challenge: "I am doing the #100DaysOfCode challenge focused on Javascript",
 };
-```
+``` -->
 
   <!-- Path: "Charlotte" | "NC", -->
 
