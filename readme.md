@@ -55,21 +55,21 @@ Passionate about full stack web dev, seeking startup for growth. Values discipli
 
 ## About Me
 
-- 📱 I’m currently working in my official site... [jpdiaz.dev](https://jpdiaz.dev/)
+- 📱 I’m currently working on my official site... [jpdiaz.dev](https://jpdiaz.dev/)
 - 🌱 I’m currently learning at... [![](https://img.shields.io/badge/Platzi-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/)
 
-- 📆 I’m currently working on... ⚡HTML5 | ⚡CSS3 | ⚡Javascript | ⚡React
+- 📆 I’m currently working on... ⚡HTML5 | ⚡CSS3 | ⚡Javascript | ⚡React | ⚡Jekyll
 - 👯 I’m looking to collaborate on a... Startup.
 - 🤔 I’m looking for help with... Front End.
 - 🎮 I'm passionate about... Web Development ⏳︎ NeverStopLearning.
-- 💬 Ask me about... Home-Lap & Front-End, HD, Platzi.
+- 💬 Ask me about... Home-Lap & Front-End, Platzi.
 - 📫 How to reach me...
   [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/1diazdev/)
   [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
   [![](https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=Mail.Ru&logoColor=06B6D4)](mailto:juan.diaz93@hotmail.com)
 - 🎓 My Certificates... [![](https://img.shields.io/badge/Platzi_Profile-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/p/DiazJuan/)
 
-- 🚲 Hobbies: ... Home-Lab, learn something new on Platzi, cyclist & fitness.
+- 🚲 Hobbies: ... Home-Lab, learn something new every day, cyclist & fitness.
 
 <p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
