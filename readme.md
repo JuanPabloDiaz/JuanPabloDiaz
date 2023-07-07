@@ -71,8 +71,6 @@ Passionate about full stack web dev, seeking startup for growth. Values discipli
 
 - 🚲 Hobbies: ... Home-Lab, learn something new every day, cyclist & fitness.
 
-<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
-
   <!--
   icons...          https://gist.github.com/rxaviers/7360908
   -->
