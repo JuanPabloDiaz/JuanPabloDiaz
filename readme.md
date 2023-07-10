@@ -39,7 +39,7 @@ Passionate about full stack web dev, seeking startup for growth. Values discipli
 [![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/whatis/whatis_js.asp)
 [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown&logoColor=FEFEFE)](https://www.w3schools.com/whatis/whatis_json.asp)
 [![Jekyll](https://img.shields.io/badge/Jekyll-535D6C?style=for-the-badge&logo=jekyll&logoColor=CC0000)](https://jekyllrb.com/)
-[![Astro](https://img.shields.io/badge/Astro-535D6C?style=for-the-badge&logo=astro&logoColor=ff5d01)](https://astro.build/)
+[![Astro](https://img.shields.io/badge/Astro-2D004B?style=for-the-badge&logo=astro&logoColor=ff5d01)](https://astro.build/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.w3schools.com/whatis/whatis_react.asp)
