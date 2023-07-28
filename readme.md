@@ -43,6 +43,7 @@ Passionate about full stack web dev, seeking startup for growth. Values discipli
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.w3schools.com/whatis/whatis_react.asp)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=Php&logoColor=white)](https://www.w3schools.com/php/default.asp)
 
 <!-- How to edit the links:
 https://www.youtube.com/watch?v=Dl-ekLb4quE
@@ -50,7 +51,6 @@ https://simpleicons.org/
 https://www.w3schools.com/whatis/whatis_fullstack.asp -->
 <!--
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://www.w3schools.com/nodejs/default.asp)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=Php&logoColor=white)](https://www.w3schools.com/php/default.asp)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffca28)](https://www.w3schools.com/python/default.asp)
 [![Vue.js](https://img.shields.io/badge/Vue-184D66?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)](https://www.w3schools.com/whatis/whatis_vue.asp)
 [![Angular](https://img.shields.io/badge/Angular-222?style=for-the-badge&logo=Angular&logoColor=DD0031)](https://www.w3schools.com/whatis/whatis_angularjs.asp)
