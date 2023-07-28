@@ -68,7 +68,7 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp -->
 - 📱 I’m currently working on my official site... [jpdiaz.dev](https://jpdiaz.dev/)
 - 🌱 I’m currently learning at... [![](https://img.shields.io/badge/Platzi-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/)
 
-- 📆 I’m currently working on... ⚡HTML5 | ⚡CSS3 | ⚡Javascript | ⚡React | ⚡Jekyll
+- 📆 I’m currently working on... ⚡Javascript | ⚡React | ⚡Jekyll | ⚡Astro
 - 👯 I’m looking to collaborate on a... Startup.
 - 🤔 I’m looking for help with... Front End.
 - 🎮 I'm passionate about... Web Development ⏳︎ NeverStopLearning.
