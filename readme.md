@@ -73,7 +73,7 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 ## About Me
 
 - 📱 I’m currently working on my official site... [jpdiaz.dev](https://jpdiaz.dev/)
-- 🌱 I’m currently learning at... [![](https://img.shields.io/badge/Platzi-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/)
+- 🌱 I’m currently learning at... [![](https://img.shields.io/badge/Platzi-98CA3F.svg?style=for-the-badge&logo=Platzi&logoColor=white)](https://platzi.com/)
 
 - 📆 I’m currently working on... ⚡Javascript | ⚡React | ⚡Jekyll | ⚡Astro
 - 👯 I’m looking to collaborate on a... Startup.
@@ -81,6 +81,7 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 - 🎮 I'm passionate about... Web Development ⏳︎ NeverStopLearning.
 - 💬 Ask me about... Home-Lap & Front-End, Platzi.
 - 📫 How to reach me...
+  [![](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/1diazdev/)
   [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/1diazdev/)
   [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
   [![](https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=Mail.Ru&logoColor=06B6D4)](mailto:juan.diaz93@hotmail.com)
