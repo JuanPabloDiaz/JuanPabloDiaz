@@ -72,30 +72,32 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 
 ## About Me
 
-- 📱 I’m currently working on my official site... [jpdiaz.dev](https://jpdiaz.dev/)
 - 🌱 I’m currently learning at... [![](https://img.shields.io/badge/Platzi-98CA3F.svg?style=for-the-badge&logo=Platzi&logoColor=white)](https://platzi.com/)
 
-- 📆 I’m currently working on... ⚡Javascript | ⚡React | ⚡Jekyll | ⚡Astro
-- 👯 I’m looking to collaborate on a... Startup.
-- 🤔 I’m looking for help with... Front End.
-- 🎮 I'm passionate about... Web Development ⏳︎ NeverStopLearning.
-- 💬 Ask me about... Home-Lap & Front-End, Platzi.
+- 📆 I’m currently working on... ⚡JS | ⚡React | ⚡Next.js | ⚡Tailwind | ⚡Jekyll | ⚡Astro
+- 👯 I’m looking to collaborate on... Open Source projects.
+- 🤔 I’m looking for help with... JS.
+- 🎮 I'm passionate about... Web Development && NeverStopLearning.
+- 💬 Ask me about... Front End.
 - 📫 How to reach me...
   [![](https://img.shields.io/badge/@1diazdev-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/1diazdev/)
   [![](https://img.shields.io/badge/@1diazdev-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/1diazdev)
   [![](https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=Mail.Ru&logoColor=06B6D4)](mailto:juan.diaz93@hotmail.com)
 - 🎓 My Certificates... [![](https://img.shields.io/badge/Platzi_Profile-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/p/DiazJuan/)
 
-- 🚲 Hobbies: ... Home-Lab, learn something new every day, cyclist & fitness.
+- 🚲 Hobbies: ... Cyclist & fitness.
 
   <!--
-  icons...          https://gist.github.com/rxaviers/7360908
+  icons...            https://gist.github.com/rxaviers/7360908
+  Company logos...    https://home.aveek.io/GitHub-Profile-Badges/
   -->
 
 ### Web-Page 🔰🌐
 
 - Since May 2023, [jpdiaz.dev](https://jpdiaz.dev/) is my official website. It is currently under construction 🚧
 - My Documentation website is [docs.jpdiaz.dev](https://docs.jpdiaz.dev/)
+- Landing page
+- Social Media Site
 
 <!-- ### Others 🎭
 
