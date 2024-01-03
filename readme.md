@@ -17,7 +17,7 @@ https://www.notion.so/GitHub-Tools-Edit-readme-a55ee707b3914b88b9a92a7a104b3b6c
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://jpdiaz.dev">
-    <img src="./images/developer-bg.png" width="200">
+    <img src="./images/developer-bg.png" width="300">
   </a>
 
 <!-- # Hello 👋 -->
@@ -63,8 +63,6 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
   <a href="https://github.com/JuanPabloDiaz?tab=repositories">
     <img align="right" src="images/logoNoBG_S.png"  width="200px" alt="Logo">
   </a>
-
-<!-- <img align='right' src="https://media4.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif?cid=ecf05e47gzy4xfa4dq1asdzb0xd7hp4w5g4tr178bgnwyw0f&rid=giphy.gif&ct=g" width="200"> -->
 
 <!-- ## About Me -->
 
