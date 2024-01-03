@@ -16,17 +16,18 @@ https://www.notion.so/GitHub-Tools-Edit-readme-a55ee707b3914b88b9a92a7a104b3b6c
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/JuanPabloDiaz?tab=repositories">
-    <img src="images/logoNoBG_S.png"  width="200px" alt="Logo">
+  <a href="https://jpdiaz.dev">
+    <img src="./images/developer-bg.png" width="200">
   </a>
 
 <!-- # Hello 👋 -->
 
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> my name is Juan and I am a Front End developer
 
+</div>
+
 <p align="justify">
 Passionate Junior Front End Developer: Seeking a startup for growth. Values discipline, loyalty, and reliability. Self-motivated learner, eager to acquire new skills. 💻</p>
-</div>
 
 <!-- ### 🎯 Some technologies I use: -->
 
@@ -45,11 +46,10 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
 [![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/documentation/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)](https://www.w3schools.com/php/default.asp)
 
+</div>
+
 <!--
- How to edit the links:
-
- >>>> https://home.aveek.io/GitHub-Profile-Badges/
-
+ How to edit the links: >>>> https://home.aveek.io/GitHub-Profile-Badges/
 
 https://www.youtube.com/watch?v=Dl-ekLb4quE
 https://simpleicons.org/
@@ -57,17 +57,14 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 -->
 
 <!-- use:   https://home.aveek.io/GitHub-Profile-Badges/ -->
-<!-- [![Docker]()](https://www.docker.com/)
-[![Jest]()](https://www.jest.com/)
-[![Webpack]()](https://www.webpack.com/)
-[![Next]()](<(https://www.next.com/)>)
-[![Firebase]()](<(https://www.firebase.com/)>) -->
 
-</div>
 <hr>
 
+  <a href="https://github.com/JuanPabloDiaz?tab=repositories">
+    <img align="right" src="images/logoNoBG_S.png"  width="200px" alt="Logo">
+  </a>
+
 <!-- <img align='right' src="https://media4.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif?cid=ecf05e47gzy4xfa4dq1asdzb0xd7hp4w5g4tr178bgnwyw0f&rid=giphy.gif&ct=g" width="200"> -->
-<img align='right' src="./images/developer-bg.png" width="200">
 
 <!-- ## About Me -->
 
