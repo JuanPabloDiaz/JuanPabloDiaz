@@ -4,8 +4,8 @@ https://www.notion.so/GitHub-Tools-Edit-readme-a55ee707b3914b88b9a92a7a104b3b6c
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://jpdiaz.dev">
-    <img src="./images/developer-bg.png" width="300">
+  <a href="https://github.com/JuanPabloDiaz?tab=repositories">
+    <img  src="images/logoNoBG_S.png"  width="200px" alt="Logo">
   </a>
 
 <!-- # Hello 👋 -->
@@ -48,8 +48,8 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 
 <hr>
 
-  <a href="https://github.com/JuanPabloDiaz?tab=repositories">
-    <img align="right" src="images/logoNoBG_S.png"  width="200px" alt="Logo">
+ <a href="https://jpdiaz.dev">
+    <img align="right" src="./images/developer-bg.png" width="300">
   </a>
 
 <!-- ## About Me -->
