@@ -49,7 +49,8 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 <hr>
 
  <a href="https://jpdiaz.dev">
-    <img align="right" src="./images/developer-bg.png" width="300">
+    <img align="right" src="./images/avatar.svg" width="300">
+    <!-- <img align="right" src="./images/avatar.png" width="300"> -->
   </a>
 
 <!-- ## About Me -->
