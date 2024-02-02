@@ -60,12 +60,13 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 <!-- ## About Me -->
 
 - 📆 I’m currently working on... My first Full Stack app with next.js
-- 🌱 I’m currently learning ... ⚡JS | ⚡React | ⚡Next.js | ⚡Vue | ⚡Angular | ⚡Tailwind | ⚡Astro
-- 🤔 I’m looking for guidance in... breaking into the front-end development industry.
+- 🌱 I’m currently learning ... ⚡JS | ⚡React | ⚡Next.js
+<!-- - | ⚡Vue | ⚡Solid | ⚡Svelte -->
+- 🤔 I’m looking for guidance in... Breaking into the front-end development industry.
 - 👯 I’m looking to collaborate on... OSS that I used and understand.
 <!-- - 🤔 I’m looking for help with... front end. -->
 - 🎮 I'm passionate about... Web Development && Never Stop Learning.
-- 💬 Ask me about... Front End.
+- 💬 Ask me about... My go to framework for Front End.
 - 📫 How to reach me...
   [![](https://img.shields.io/badge/@1diazdev-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/1diazdev/)
   [![](https://img.shields.io/badge/@1diazdev-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/1diazdev)
