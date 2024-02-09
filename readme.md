@@ -3,10 +3,24 @@ https://www.notion.so/GitHub-Tools-Edit-readme-a55ee707b3914b88b9a92a7a104b3b6c
  -->
 
 <!-- PROJECT LOGO -->
+
 <div align="center">
+
   <a href="https://github.com/JuanPabloDiaz?tab=repositories">
     <img  src="images/logoNoBG_S.png"  width="200px" alt="Logo">
   </a>
+
+<!-- How To Reach Me -->
+
+<div align="center">
+  <!-- <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F1diazdev%2F1diazdev&label=VISITORS&labelColor=%23000&countColor=%230A0209" /> -->
+  <br>
+  <a href="https://peerlist.io/1diazdev"><img src="https://img.shields.io/badge/peerlist-d5d5d5?style=for-the-badge&logo=peerlist&logoColor=0A0209" alt="profile of Peerlist with username 1diazdev" ></a>
+  <a href="https://www.linkedin.com/in/1diazdev/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username 1diazdev" /></a>
+  <a href="mailto:juan.diaz.rodriguez93@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Gmail of Juan Diaz i.e.   juan.diaz.rodriguez93@gmail.com" /></a>
+  <a href="https://twitter.com/1diazdev"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username 1diazdev" ></a>
+  <a href="https://dev.to/1diazdev"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username 1diazdev" /></a>
+</div>
 
 <!-- # Hello 👋 -->
 
@@ -67,11 +81,11 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 <!-- - 🤔 I’m looking for help with... front end. -->
 - 🎮 I'm passionate about... Web Development && Never Stop Learning.
 - 💬 Ask me about... My go to framework for Front End.
-- 📫 How to reach me...
+<!-- - 📫 How to reach me...
   [![](https://img.shields.io/badge/@1diazdev-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/1diazdev/)
   [![](https://img.shields.io/badge/@1diazdev-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/1diazdev)
-  [![](https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=Mail.Ru&logoColor=06B6D4)](mailto:juan.diaz93@hotmail.com)
-- 🎓 My Certificates... [![freecodecamp](https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/1diazdev) [![platzi](https://img.shields.io/badge/Platzi_Profile-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/p/1diazdev/)
+  [![](https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=Mail.Ru&logoColor=06B6D4)](mailto:juan.diaz93@hotmail.com) -->
+- 🎓 My Certifications... [![freecodecamp](https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/1diazdev) [![platzi](https://img.shields.io/badge/Platzi_Profile-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/p/1diazdev/)
 
 <!-- [![](https://img.shields.io/badge/Platzi-98CA3F.svg?style=for-the-badge&logo=Platzi&logoColor=white)](https://platzi.com/) -->
   <!--
