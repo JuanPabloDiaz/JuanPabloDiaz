@@ -87,9 +87,7 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
   [![](https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=Mail.Ru&logoColor=06B6D4)](mailto:juan.diaz93@hotmail.com) -->
 - 🎓 My Certifications... [![freecodecamp](https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/1diazdev) [![platzi](https://img.shields.io/badge/Platzi_Profile-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/p/1diazdev/)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JuanPabloDiaz&theme=dark&hide_border=true)
-
-<!-- [GitHub Streak](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuanPabloDiaz&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!-- [![](https://img.shields.io/badge/Platzi-98CA3F.svg?style=for-the-badge&logo=Platzi&logoColor=white)](https://platzi.com/) -->
   <!--
