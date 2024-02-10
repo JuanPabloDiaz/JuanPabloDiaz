@@ -98,8 +98,8 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 
 #### Top Repositories
 
-<a href="https://github.com/JuanPabloDiaz/jpShop">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=jpShop&theme=dark&hide_border=true" />
+<a href="https://github.com/JuanPabloDiaz/jpdiaz">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=jpdiaz&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/JuanPabloDiaz/freecodecamp">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" />
