@@ -98,11 +98,11 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 
 #### Top Repositories
 
-<a href="https://github.com/JuanPabloDiaz/github-readme-stats">
+<a href="https://github.com/JuanPabloDiaz/jpShop">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=jpShop&theme=dark&hide_border=true" />
 </a>
-<a href="https://github.com/JuanPabloDiaz/JuanPabloDiaz.github.io">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freeCodeCamp&theme=dark&hide_border=true" />
+<a href="https://github.com/JuanPabloDiaz/freecodecamp">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" />
 </a>
 
 <!-- [![](https://img.shields.io/badge/Platzi-98CA3F.svg?style=for-the-badge&logo=Platzi&logoColor=white)](https://platzi.com/) -->
