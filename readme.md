@@ -91,6 +91,8 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&hide=jupyter%20notebook,scss,ruby,shell,python&theme=dark)
+
 <!-- [![](https://img.shields.io/badge/Platzi-98CA3F.svg?style=for-the-badge&logo=Platzi&logoColor=white)](https://platzi.com/) -->
   <!--
   icons...            https://gist.github.com/rxaviers/7360908
