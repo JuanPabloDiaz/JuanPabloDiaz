@@ -89,6 +89,8 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JuanPabloDiaz&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz)](https://github.com/JuanPabloDiaz/github-readme-stats)
+
 <!-- [![](https://img.shields.io/badge/Platzi-98CA3F.svg?style=for-the-badge&logo=Platzi&logoColor=white)](https://platzi.com/) -->
   <!--
   icons...            https://gist.github.com/rxaviers/7360908
