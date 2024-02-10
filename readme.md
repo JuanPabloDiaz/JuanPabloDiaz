@@ -89,9 +89,12 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JuanPabloDiaz&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz&show_icons=true&theme=dark)
+| <a href="https://github.com/JuanPabloDiaz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/JuanPabloDiaz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&theme=dark&hide=jupyter%20notebook,scss,ruby,shell,python&hide_border=true" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&hide=jupyter%20notebook,scss,ruby,shell,python&theme=dark)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&hide=jupyter%20notebook,scss,ruby,shell,python&theme=dark) -->
 
 <!-- [![](https://img.shields.io/badge/Platzi-98CA3F.svg?style=for-the-badge&logo=Platzi&logoColor=white)](https://platzi.com/) -->
   <!--
