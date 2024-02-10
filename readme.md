@@ -96,6 +96,15 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&hide=jupyter%20notebook,scss,ruby,shell,python&theme=dark) -->
 
+#### Top Repositories
+
+<a href="https://github.com/JuanPabloDiaz/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=jpShop&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/JuanPabloDiaz/JuanPabloDiaz.github.io">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freeCodeCamp&theme=dark&hide_border=true" />
+</a>
+
 <!-- [![](https://img.shields.io/badge/Platzi-98CA3F.svg?style=for-the-badge&logo=Platzi&logoColor=white)](https://platzi.com/) -->
   <!--
   icons...            https://gist.github.com/rxaviers/7360908
