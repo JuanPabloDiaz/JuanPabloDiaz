@@ -90,8 +90,7 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 <a href="https://github.com/JuanPabloDiaz?tab=repositories">
 <img src="https://streak-stats.demolab.com?user=JuanPabloDiaz&theme=dark&hide_border=true" /></a>
 
-| <a href="https://github.com/JuanPabloDiaz?tab=repositories">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&rank_icon=github" alt="Anurag's github stats" /></a> | <a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&theme=dark&hide=jupyter%20notebook,scss,ruby,shell,python&hide_border=true" /></a> |
+| <a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&rank_icon=github" alt="Anurag's github stats" /></a> | <a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&theme=dark&hide=jupyter%20notebook,scss,ruby,shell,python&hide_border=true" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz&show_icons=true&theme=dark)
