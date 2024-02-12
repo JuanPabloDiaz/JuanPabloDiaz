@@ -43,10 +43,10 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
   <img src="assets/icons/nextjs.svg" width="40" title="NextJS"/>
   <img src="assets/icons/tailwind.svg" width="40" title="Tailwind"/>
   <img src="assets/icons/sass.svg" width="40" title="sass"/>
-  <img src="assets/icons/figma.svg" width="36" title="Figma"/>
+  <!-- <img src="assets/icons/figma.svg" width="36" title="Figma"/>
   <img src="assets/icons/node.svg" width="45" title="NodeJS"/>
   <img src="assets/icons/express.svg" width="43" title="Express"/>
-  <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
+  <img src="assets/icons/mysql.svg" width="38" title="MySQL"/> -->
 
 </div>
 
