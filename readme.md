@@ -34,6 +34,7 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
 <!-- ### 🎯 Some technologies I use: -->
 
 <h2 align="center">Skills</h2>
+
   <img src="assets/icons/html.svg" width="40" title="HTML"/>
   <img src="assets/icons/css.svg" width="40" title="CSS"/>
   <img src="assets/icons/javascript.svg" width="37" title="JavaScript"/>
@@ -41,12 +42,11 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
   <img src="assets/icons/react.svg" width="40" title="React"/>
   <img src="assets/icons/nextjs.svg" width="40" title="NextJS"/>
   <img src="assets/icons/tailwind.svg" width="40" title="Tailwind"/>
+  <img src="assets/icons/sass.svg" width="40" title="sass"/>
   <img src="assets/icons/figma.svg" width="36" title="Figma"/>
   <img src="assets/icons/node.svg" width="45" title="NodeJS"/>
   <img src="assets/icons/express.svg" width="43" title="Express"/>
-  <img src="assets/icons/firebase.svg" width=40" title="Firebase"/>
   <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
-  <img src="assets/icons/blender.svg" width="38" title="Blender"/>
 
 <!-- <div align="justify">
 
@@ -105,7 +105,7 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 <img src="https://streak-stats.demolab.com?user=JuanPabloDiaz&theme=dark&hide_border=true" /></a>
 
 | <a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&rank_icon=github" alt="Anurag's github stats" /></a> | <a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&theme=dark&hide=jupyter%20notebook,scss,ruby,shell,python&hide_border=true" /></a> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz&show_icons=true&theme=dark)
 
