@@ -7,7 +7,7 @@ https://www.notion.so/GitHub-Tools-Edit-readme-a55ee707b3914b88b9a92a7a104b3b6c
 <div align="center">
 
   <a href="https://github.com/JuanPabloDiaz?tab=repositories">
-    <img  src="images/logoNoBG_S.png"  width="200px" alt="Logo">
+    <img  src="assets/images/logoNoBG_S.png"  width="200px" alt="Logo">
   </a>
 
 <!-- How To Reach Me -->
@@ -33,7 +33,22 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
 
 <!-- ### 🎯 Some technologies I use: -->
 
-<div align="justify">
+<h2 align="center">Skills</h2>
+  <img src="assets/icons/html.svg" width="40" title="HTML"/>
+  <img src="assets/icons/css.svg" width="40" title="CSS"/>
+  <img src="assets/icons/javascript.svg" width="37" title="JavaScript"/>
+  <img src="assets/icons/typescript.svg" width="37" title="TypeScript"/>
+  <img src="assets/icons/react.svg" width="40" title="React"/>
+  <img src="assets/icons/nextjs.svg" width="40" title="NextJS"/>
+  <img src="assets/icons/tailwind.svg" width="40" title="Tailwind"/>
+  <img src="assets/icons/figma.svg" width="36" title="Figma"/>
+  <img src="assets/icons/node.svg" width="45" title="NodeJS"/>
+  <img src="assets/icons/express.svg" width="43" title="Express"/>
+  <img src="assets/icons/firebase.svg" width=40" title="Firebase"/>
+  <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
+  <img src="assets/icons/blender.svg" width="38" title="Blender"/>
+
+<!-- <div align="justify">
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://www.w3schools.com/whatis/whatis_html.asp)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/whatis/whatis_css.asp)
@@ -48,7 +63,7 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
 [![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/documentation/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)](https://www.w3schools.com/php/default.asp)
 
-</div>
+</div> -->
 
 <!--
  How to edit the links: >>>> https://home.aveek.io/GitHub-Profile-Badges/
@@ -63,8 +78,7 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 <hr>
 
  <a href="https://jpdiaz.dev">
-    <img align="right" src="./images/avatar.svg" width="300">
-    <!-- <img align="right" src="./images/avatar.png" width="300"> -->
+    <img align="right" src="assets/images/avatar.svg" width="300">
   </a>
 
   <!-- To generate the avatar >> https://designer.microsoft.com/image-creator?p=Funko+figure+of+%5Ban+activity+or+role%5D%2C+%5Bfemale+or+male%5D%2C+called+%5BName%5D%2C+wearing+a+%5Bspecific+clothes+and+glasses%5D%2C+%5Bspecific+hair%5D+and+has+%5Baccessories%5D.+Holding+a+%5Bsomething%5D.+The+Funko+is+displayed+inside+a+Funko+box+with+%5Btext%5D+text+and+%5Blogo%5D+logo+for+the+box%2C+allowing+visibility+of+the+figure%2C+typography%2C+3D+render -->
