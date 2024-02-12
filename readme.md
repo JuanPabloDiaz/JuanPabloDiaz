@@ -32,9 +32,9 @@ https://www.notion.so/GitHub-Tools-Edit-readme-a55ee707b3914b88b9a92a7a104b3b6c
 Passionate Junior Front End Developer: Seeking a startup for growth. Values discipline, loyalty, and reliability. Self-motivated learner, eager to acquire new skills. 💻</p>
 
 <!-- ### 🎯 Some technologies I use: -->
+<div align="center">
 
 <h2 align="center">Skills</h2>
-
   <img src="assets/icons/html.svg" width="40" title="HTML"/>
   <img src="assets/icons/css.svg" width="40" title="CSS"/>
   <img src="assets/icons/javascript.svg" width="37" title="JavaScript"/>
@@ -47,6 +47,8 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
   <img src="assets/icons/node.svg" width="45" title="NodeJS"/>
   <img src="assets/icons/express.svg" width="43" title="Express"/>
   <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
+
+</div>
 
 <!-- <div align="justify">
 
