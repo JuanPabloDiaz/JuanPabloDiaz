@@ -84,8 +84,6 @@ Source: https://rahuldkjain.github.io/gh-profile-readme-generator/
   - Company logos...    https://home.aveek.io/GitHub-Profile-Badges/
   -->
 
--->
-
 <hr>
 
  <a href="https://jpdiaz.dev">
@@ -119,7 +117,7 @@ Source: https://rahuldkjain.github.io/gh-profile-readme-generator/
 | <a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&rank_icon=github" alt="Anurag's github stats" /></a> | <a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&theme=dark&hide=jupyter%20notebook,scss,ruby,shell,python&hide_border=true" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-### Top Contributed Repo
+#### Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=JuanPabloDiaz&limit=5&combine_all_yearly_contributions=true&theme=dark&hide_border=true)
 
