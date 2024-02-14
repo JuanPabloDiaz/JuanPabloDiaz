@@ -35,14 +35,15 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
 <div align="center">
 
 <h2 align="center">Skills</h2>
-  <img src="assets/icons/html.svg" width="40" title="HTML"/>
+  <!-- <img src="assets/icons/html.svg" width="40" title="HTML"/>
   <img src="assets/icons/css.svg" width="40" title="CSS"/>
   <img src="assets/icons/javascript.svg" width="37" title="JavaScript"/>
   <img src="assets/icons/typescript.svg" width="37" title="TypeScript"/>
   <img src="assets/icons/react.svg" width="40" title="React"/>
   <img src="assets/icons/nextjs.svg" width="40" title="NextJS"/>
   <img src="assets/icons/tailwind.svg" width="40" title="Tailwind"/>
-  <img src="assets/icons/sass.svg" width="40" title="sass"/>
+  <img src="assets/icons/sass.svg" width="40" title="sass"/> -->
+  
   <!-- <img src="assets/icons/figma.svg" width="36" title="Figma"/>
   <img src="assets/icons/node.svg" width="45" title="NodeJS"/>
   <img src="assets/icons/express.svg" width="43" title="Express"/>
@@ -53,6 +54,7 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img src="assets/icons/nextjs.svg" width="40" title="NextJS"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
