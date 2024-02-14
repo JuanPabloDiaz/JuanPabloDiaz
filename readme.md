@@ -131,6 +131,15 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 | <a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&rank_icon=github" alt="Anurag's github stats" /></a> | <a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&theme=dark&hide=jupyter%20notebook,scss,ruby,shell,python&hide_border=true" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+### Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=JuanPabloDiaz&limit=5&combine_all_yearly_contributions=true&theme=dark&hide_border=true)
+
+<!-- [![](https://img.shields.io/badge/Platzi-98CA3F.svg?style=for-the-badge&logo=Platzi&logoColor=white)](https://platzi.com/) -->
+  <!--
+  icons...            https://gist.github.com/rxaviers/7360908
+  Company logos...    https://home.aveek.io/GitHub-Profile-Badges/
+  -->
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&hide=jupyter%20notebook,scss,ruby,shell,python&theme=dark) -->
@@ -144,11 +153,6 @@ https://www.w3schools.com/whatis/whatis_fullstack.asp
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" />
 </a>
 
-<!-- [![](https://img.shields.io/badge/Platzi-98CA3F.svg?style=for-the-badge&logo=Platzi&logoColor=white)](https://platzi.com/) -->
-  <!--
-  icons...            https://gist.github.com/rxaviers/7360908
-  Company logos...    https://home.aveek.io/GitHub-Profile-Badges/
-  -->
 
 <!-- ### Others 🎭
 
