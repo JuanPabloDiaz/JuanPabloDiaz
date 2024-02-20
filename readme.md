@@ -1,8 +1,22 @@
-<div align="center">
-
-  <a href="https://github.com/JuanPabloDiaz?tab=repositories">
+<!-- <div align="center">
+  Juan Diaz Banner
+   <a href="https://github.com/JuanPabloDiaz?tab=repositories">
     <img  src="assets/images/logoNoBG_S.png"  width="200px" alt="Logo">
-  </a>
+  </a> 
+</div> -->
+
+<!-- Typing SVG From: https://git.io/typing-svg -->
+<div align="center">
+  <p>
+    <a href="https://github.com/JuanPabloDiaz">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=510&height=25&lines=Juan+Diaz" alt="Juan Diaz"/></a>
+  </p>
+  
+  <p>
+    <a href="https://github.com/JuanPabloDiaz">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=550&height=30&lines=Hello+there!;💻+I'm+a+passionate+Front+End+Developer+💻;🚀+Open+Source+Enthusiast+🚀;📚+Always+learning+new+things+📚;⚡+Happy+coding+⚡" alt="Juan's greetings"/></a>
+  </p>
+</div>
 
 <!-- How To Reach Me -->
 <div align="center">
@@ -19,6 +33,8 @@
 </div>
 
 <!-- # Hello 👋 -->
+
+<div align="center">
 
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> my name is Juan and I am a Front End developer
 
