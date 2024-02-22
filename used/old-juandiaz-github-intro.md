@@ -1,21 +1,5 @@
 <div id="top"></div>
 
-<!--
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
--->
-
-<!-- Editor de README.md
-
-https://pandao.github.io/editor.md/en.html
-https://www.notion.so/GitHub-Tools-Edit-readme-a55ee707b3914b88b9a92a7a104b3b6c
-
- -->
-
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/JuanPabloDiaz?tab=repositories">
