@@ -1,4 +1,3 @@
-<!-- Typing SVG From: https://git.io/typing-svg -->
 <div align="center">
   <p>
     <a href="https://github.com/JuanPabloDiaz">
@@ -45,21 +44,11 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
 
 </div>
 
-  <!--   RESOURCES:
-  - icons...  https://simpleicons.org/ | https://devicon.dev/ |   https://gist.github.com/rxaviers/7360908
-  - Company logos...    https://home.aveek.io/GitHub-Profile-Badges/
-  Github Generators....
-  https://gprm.itsvg.in/  |  https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-
 <hr>
 
  <a href="https://jpdiaz.dev">
     <img align="right" src="assets/images/avatar.svg" width="300">
   </a>
-
-  <!-- To generate the avatar >> https://designer.microsoft.com/image-creator?p=Funko+figure+of+%5Ban+activity+or+role%5D%2C+%5Bfemale+or+male%5D%2C+called+%5BName%5D%2C+wearing+a+%5Bspecific+clothes+and+glasses%5D%2C+%5Bspecific+hair%5D+and+has+%5Baccessories%5D.+Holding+a+%5Bsomething%5D.+The+Funko+is+displayed+inside+a+Funko+box+with+%5Btext%5D+text+and+%5Blogo%5D+logo+for+the+box%2C+allowing+visibility+of+the+figure%2C+typography%2C+3D+render -->
-  <!-- The Prompt I used to generate the avatar:
-   Funko figure of Developer, Male, called Juan Diaz, wearing glasses, Colombia Football Shirt and short, has hat facing forward with the text dev on it. Holding a laptop with the screen facing forward, the screen displays the text jpdiaz.dev. Waving of the hand with the other hand. The Funko is displayed with no background. it has a friendly smile. allowing visibility of the figure, typography, 3D render -->
 
 <!-- ## About Me -->
 
@@ -90,3 +79,14 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
 <a href="https://github.com/JuanPabloDiaz/freecodecamp">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" />
 </a>
+
+<!-- **************** RESOURCES *************** -->
+
+<!--  - icons...  https://simpleicons.org/ | https://devicon.dev/ |   https://gist.github.com/rxaviers/7360908
+  - Company logos...    https://home.aveek.io/GitHub-Profile-Badges/
+  Github Generators....
+  https://gprm.itsvg.in/  |  https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+
+  <!-- To generate the avatar >> https://designer.microsoft.com/image-creator?p=Funko+figure+of+%5Ban+activity+or+role%5D%2C+%5Bfemale+or+male%5D%2C+called+%5BName%5D%2C+wearing+a+%5Bspecific+clothes+and+glasses%5D%2C+%5Bspecific+hair%5D+and+has+%5Baccessories%5D.+Holding+a+%5Bsomething%5D.+The+Funko+is+displayed+inside+a+Funko+box+with+%5Btext%5D+text+and+%5Blogo%5D+logo+for+the+box%2C+allowing+visibility+of+the+figure%2C+typography%2C+3D+render -->
+  <!-- The Prompt I used to generate the avatar:
+   Funko figure of Developer, Male, called Juan Diaz, wearing glasses, Colombia Football Shirt and short, has hat facing forward with the text dev on it. Holding a laptop with the screen facing forward, the screen displays the text jpdiaz.dev. Waving of the hand with the other hand. The Funko is displayed with no background. it has a friendly smile. allowing visibility of the figure, typography, 3D render -->
