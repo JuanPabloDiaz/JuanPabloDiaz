@@ -40,7 +40,7 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
 
 <h2 align="center">Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,next,ts,git,tailwind,sass,vite,html,css)](https://jpdiaz.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,next,ts,git,tailwind,sass,astro,vite,html,css)](https://jpdiaz.dev)
 
 </div>
 
