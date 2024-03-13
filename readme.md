@@ -71,6 +71,19 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
 
 ![](https://github-contributor-stats.vercel.app/api?username=JuanPabloDiaz&limit=5&combine_all_yearly_contributions=true&theme=dark&hide_border=true)
 
+#### Statistics
+
+<div align="center">
+<a href="https://github.com/JuanPabloDiaz">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanPabloDiaz&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuanPabloDiaz&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuanPabloDiaz&exclude=Jupyter%20Notebook&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanPabloDiaz&exclude=Jupyter%20Notebook&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanPabloDiaz&theme=github_dark" height="180em" />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanPabloDiaz&theme=high-contrast&hide_border=true" height="180em"/>
+</a>
+</div>
+
 #### Top Repositories
 
 <a href="https://github.com/JuanPabloDiaz/jpdiaz">
@@ -90,15 +103,3 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
   <!-- To generate the avatar >> https://designer.microsoft.com/image-creator?p=Funko+figure+of+%5Ban+activity+or+role%5D%2C+%5Bfemale+or+male%5D%2C+called+%5BName%5D%2C+wearing+a+%5Bspecific+clothes+and+glasses%5D%2C+%5Bspecific+hair%5D+and+has+%5Baccessories%5D.+Holding+a+%5Bsomething%5D.+The+Funko+is+displayed+inside+a+Funko+box+with+%5Btext%5D+text+and+%5Blogo%5D+logo+for+the+box%2C+allowing+visibility+of+the+figure%2C+typography%2C+3D+render -->
   <!-- The Prompt I used to generate the avatar:
    Funko figure of Developer, Male, called Juan Diaz, wearing glasses, Colombia Football Shirt and short, has hat facing forward with the text dev on it. Holding a laptop with the screen facing forward, the screen displays the text jpdiaz.dev. Waving of the hand with the other hand. The Funko is displayed with no background. it has a friendly smile. allowing visibility of the figure, typography, 3D render -->
-<h3 align="center">Statistics</h3>
-
-<div align="center">
-<a href="https://github.com/JuanPabloDiaz">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanPabloDiaz&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuanPabloDiaz&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuanPabloDiaz&exclude=Jupyter%20Notebook&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanPabloDiaz&exclude=Jupyter%20Notebook&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanPabloDiaz&theme=github_dark" height="180em" />
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanPabloDiaz&theme=high-contrast&hide_border=true" height="180em"/>
-</a>
-</div>
