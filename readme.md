@@ -96,14 +96,8 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
 <a href="https://github.com/JuanPabloDiaz">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanPabloDiaz&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuanPabloDiaz&theme=github_dark" height="180em" />
-jupyter%20notebook
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuanPabloDiaz&exclude=jupyter%20notebook&theme=github_dark" height="180em" />
-Jupyter%20Notebook
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuanPabloDiaz&exclude=Jupyter%20Notebook&theme=github_dark" height="180em" />
-jupyternotebook
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuanPabloDiaz&exclude=jupyternotebook&theme=github_dark" height="180em" />
-JupyterNotebook
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanPabloDiaz&exclude=JupyterNotebook&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanPabloDiaz&exclude=Jupyter%20Notebook&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanPabloDiaz&theme=github_dark" height="180em" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanPabloDiaz&theme=high-contrast&hide_border=true" height="180em"/>
 </a>
