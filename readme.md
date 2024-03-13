@@ -91,8 +91,9 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
   <!-- The Prompt I used to generate the avatar:
    Funko figure of Developer, Male, called Juan Diaz, wearing glasses, Colombia Football Shirt and short, has hat facing forward with the text dev on it. Holding a laptop with the screen facing forward, the screen displays the text jpdiaz.dev. Waving of the hand with the other hand. The Funko is displayed with no background. it has a friendly smile. allowing visibility of the figure, typography, 3D render -->
 <h3 align="center">Statistics</h3>
+
 - profile-details
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanPabloDiaz&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanPabloDiaz&theme=github_dark)
 
 - repos-per-language
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanPabloDiaz&theme=github_dark)
@@ -104,7 +105,7 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanPabloDiaz&theme=github_dark)
 
 - productive-time
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuanPabloDiaz&theme=default&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuanPabloDiaz&theme=github_dark&utcOffset=8)
 
 <div align="center">
 <a href="https://github.com/JuanPabloDiaz">
