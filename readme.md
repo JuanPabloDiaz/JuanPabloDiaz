@@ -66,15 +66,22 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
 
 <!-- <a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&rank_icon=github" alt="Anurag's github stats" /></a> -->
 
-<table style="border: none; margin: 0; padding: 0;">
+<table>
   <tr>
-    <th style="border: none; margin: 0; padding: 0;"><a href="https://github.com/JuanPabloDiaz" style="border: none; margin: 0; padding: 0;"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanPabloDiaz&theme=dark" height="200em" /></a></th>
-    <th style="border: none; margin: 0; padding: 0;"><a href="https://github.com/JuanPabloDiaz" style="border: none; margin: 0; padding: 0;"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanPabloDiaz&exclude=Jupyter%20Notebook&theme=dark" height="200em" /></a></th>
-    <th style="border: none; margin: 0; padding: 0;"><a href="https://github.com/JuanPabloDiaz?tab=repositories" style="border: none; margin: 0; padding: 0;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&theme=dark&hide=jupyter%20notebook,scss,ruby,shell,python&hide_border=true" height="200em" /></a></th>
+    <th><a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanPabloDiaz&theme=dark" height="220em" /></a></th>
+    <th><a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanPabloDiaz&exclude=Jupyter%20Notebook&theme=dark" height="220em" /></a></th>
+    <th><a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&theme=dark&hide=jupyter%20notebook,scss,ruby,shell,python&hide_border=true" height="220em" /></a></th>
   </tr>
 </table>
 
-<a href="https://github.com/JuanPabloDiaz"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=JuanPabloDiaz&limit=5&combine_all_yearly_contributions=true&theme=dark&hide_border=true&custom_title=Top%20Contributed%20Repo" height="200em" /></a><a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanPabloDiaz&theme=dark" height="180em" /></a>
+<table>
+  <tr>
+    <th><a href="https://github.com/JuanPabloDiaz"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=JuanPabloDiaz&limit=5&combine_all_yearly_contributions=true&theme=dark&hide_border=true&custom_title=Top%20Contributed%20Repo" height="200em" /></a>
+    </th>
+    <th><a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanPabloDiaz&theme=dark" height="180em" /></a>
+    </th>
+  </tr>
+</table>
 
 <!-- <div align="center"> -->
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuanPabloDiaz&theme=dark" height="200em" /> -->
