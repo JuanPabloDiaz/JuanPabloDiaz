@@ -73,8 +73,12 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
 
 ## testing
 
+<a href="https://github.com/JuanPabloDiaz/jpdiaz">
 <img align="center" src="https://github-contributor-stats.vercel.app/api?username=JuanPabloDiaz&limit=5&combine_all_yearly_contributions=true&theme=dark&hide_border=true" height="180em" />
+</a>
+<a href="https://github.com/JuanPabloDiaz/jpdiaz">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanPabloDiaz&theme=github_dark" height="180em" />
+</a>
 
 #### Statistics
 
