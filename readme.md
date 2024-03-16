@@ -91,7 +91,7 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
 
 #### Top Repositories
 
-<a href="https://github.com/JuanPabloDiaz">
+<a href="https://github.com/JuanPabloDiaz/jpdiaz">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=jpdiaz&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/JuanPabloDiaz/freecodecamp">
