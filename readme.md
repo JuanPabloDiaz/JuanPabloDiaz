@@ -55,9 +55,9 @@
 - 🌱 I’m currently learning ... ⚡ JavaScript frameworks
 - 🤔 I’m looking for guidance in... Breaking into the front-end development industry.
 - 👯 I’m looking to collaborate on... OSS that I used and understand.
-<!-- - 🤔 I’m looking for help with... front end. -->
 - 🎮 I'm passionate about... Web Development & Never Stop Learning.
 - 💬 Ask me about... My go to framework.
+<!-- - 🤔 I’m looking for help with... front end. -->
 
 <a href="https://github.com/JuanPabloDiaz?tab=repositories">
 <img src="https://streak-stats.demolab.com?user=JuanPabloDiaz&theme=dark&hide_border=true" /></a>
