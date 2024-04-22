@@ -32,8 +32,7 @@
 
 </div>
 
-<p align="justify">
-Passionate Junior Front End Developer: Seeking a startup for growth. Values discipline, loyalty, and reliability. Self-motivated learner, eager to acquire new skills. 💻</p>
+<p align="justify">Front-End Developer obsessed with building beautiful and functional web experiences. Driven by a constant learning mindset and eager to contribute to a collaborative startup team.</p>
 
 <!-- ### 🎯 Some technologies I use: -->
 <div align="center">
@@ -52,14 +51,13 @@ Passionate Junior Front End Developer: Seeking a startup for growth. Values disc
 
 <!-- ## About Me -->
 
-- 📆 I’m currently working on... My first Full Stack app with next.js
-- 🌱 I’m currently learning ... ⚡JS | ⚡React | ⚡Next.js
-<!-- - | ⚡Vue | ⚡Solid | ⚡Svelte -->
+- 📆 I’m currently working on... Cool projects
+- 🌱 I’m currently learning ... ⚡ JavaScript frameworks
 - 🤔 I’m looking for guidance in... Breaking into the front-end development industry.
 - 👯 I’m looking to collaborate on... OSS that I used and understand.
 <!-- - 🤔 I’m looking for help with... front end. -->
-- 🎮 I'm passionate about... Web Development && Never Stop Learning.
-- 💬 Ask me about... My go to framework for Front End.
+- 🎮 I'm passionate about... Web Development & Never Stop Learning.
+- 💬 Ask me about... My go to framework.
 
 <a href="https://github.com/JuanPabloDiaz?tab=repositories">
 <img src="https://streak-stats.demolab.com?user=JuanPabloDiaz&theme=dark&hide_border=true" /></a>
