@@ -51,13 +51,13 @@
 
 <!-- ## About Me -->
 
-- 📆 I’m currently working on... Cool projects
-- 🌱 I’m currently learning ... ⚡ JavaScript frameworks
-- 🤔 I’m looking for guidance in... Breaking into the front-end development industry.
-- 👯 I’m looking to collaborate on... OSS that I used and understand.
+- 📆 I’m currently working on... Cool projects.
+- 🌱 I’m currently learning ... JavaScript frameworks.
+- 🤔 I’m looking for guidance in... Entering the front-end industry.
+- 👯 I’m looking to collaborate on... Open-source software I deeply value.
 - 🎮 I'm passionate about... Web Development & Never Stop Learning.
-- 💬 Ask me about... My go to framework.
-<!-- - 🤔 I’m looking for help with... front end. -->
+💬 Ask me about... diving into open-source contributions.
+<!-- - 🤔 I’m looking for help with... front end. ⚡-->
 
 <a href="https://github.com/JuanPabloDiaz?tab=repositories">
 <img src="https://streak-stats.demolab.com?user=JuanPabloDiaz&theme=dark&hide_border=true" /></a>
@@ -89,8 +89,8 @@
 
 #### Top Repositories
 
-<a href="https://github.com/JuanPabloDiaz/jpdiaz">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=jpdiaz&theme=dark&hide_border=true" />
+<a href="https://github.com/JuanPabloDiaz/doc">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=doc&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/JuanPabloDiaz/freecodecamp">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" />
