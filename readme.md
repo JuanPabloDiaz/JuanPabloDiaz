@@ -66,18 +66,18 @@
 
 <table>
   <tr>
-    <th><a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanPabloDiaz&theme=dark" height="220em" /></a></th>
-    <th><a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanPabloDiaz&exclude=Jupyter%20Notebook&theme=dark" height="220em" /></a></th>
-    <th><a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&theme=dark&hide=jupyter%20notebook,scss,ruby,shell,python&hide_border=true" height="220em" /></a></th>
+    <td><a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanPabloDiaz&theme=dark" height="220em" /></a></td>
+    <td><a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanPabloDiaz&exclude=Jupyter%20Notebook&theme=dark" height="220em" /></a></td>
+    <td><a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&theme=dark&hide=jupyter%20notebook,scss,ruby,shell,python&hide_border=true" height="220em" /></a></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <th><a href="https://github.com/JuanPabloDiaz"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=JuanPabloDiaz&limit=5&combine_all_yearly_contributions=true&theme=dark&hide_border=true&custom_title=Top%20Contributed%20Repo" height="200em" /></a>
-    </th>
-    <th><a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanPabloDiaz&theme=dark" height="180em" /></a>
-    </th>
+    <td><a href="https://github.com/JuanPabloDiaz"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=JuanPabloDiaz&limit=5&combine_all_yearly_contributions=true&theme=dark&hide_border=true&custom_title=Top%20Contributed%20Repo" height="200em" /></a>
+    </td>
+    <td><a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanPabloDiaz&theme=dark" height="180em" /></a>
+    </td>
   </tr>
 </table>
 
@@ -89,12 +89,20 @@
 
 #### Top Repositories
 
-<a href="https://github.com/JuanPabloDiaz/doc">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=doc&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/JuanPabloDiaz/freecodecamp">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JuanPabloDiaz/doc">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=doc&theme=dark&hide_border=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JuanPabloDiaz/freecodecamp">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- **************** RESOURCES *************** -->
 
