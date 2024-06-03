@@ -89,20 +89,12 @@
 
 #### Top Repositories
 
-<table>
-  <tr>
-    <td align="center" height="200">
-      <a href="https://github.com/JuanPabloDiaz/doc">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=doc&theme=dark&hide_border=true" />
-      </a>
-    </td>
-    <td align="center" height="200">
-      <a href="https://github.com/JuanPabloDiaz/freecodecamp">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/JuanPabloDiaz/doc">
+<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=doc&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/JuanPabloDiaz/freecodecamp">
+<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" />
+</a>
 
 <!-- **************** RESOURCES *************** -->
 
