@@ -90,10 +90,10 @@
 #### Top Repositories
 
 <a href="https://github.com/JuanPabloDiaz/doc">
-<img align="center" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=doc&theme=dark&hide_border=true" />
+<img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=doc&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/JuanPabloDiaz/freecodecamp">
-<img align="center" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" />
+<img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" />
 </a>
 
 <!-- **************** RESOURCES *************** -->
