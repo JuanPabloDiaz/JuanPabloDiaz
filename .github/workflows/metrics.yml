@@ -26,6 +26,9 @@ jobs:
           # Isometric Contributions
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          # Commit Calendar
+          plugin_calendar: no # disabled
+          plugin_calendar_limit: 1
           # Stargazers
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
@@ -87,9 +90,6 @@ jobs:
           # Featured Repositories
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
-          # Commit Calendar
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
           # Achievements
           plugin_achievements: yes
           plugin_achievements_display: detailed
