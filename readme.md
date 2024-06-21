@@ -89,12 +89,21 @@
 
 #### Top Repositories
 
-<a href="https://github.com/JuanPabloDiaz/doc">
-<img align="center" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=doc&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/JuanPabloDiaz/freecodecamp">
-<img align="center" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" />
-</a>
+<!-- <a href="https://github.com/JuanPabloDiaz/doc">
+<img align="center" height="135" width="300"
+src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=doc&theme=dark&hide_border=true" />
+</a> -->
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/tech-conferences/conference-data"><img align="center" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=tech-conferences&repo=conference-data&theme=dark&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/JuanPabloDiaz/freecodecamp"><img align="center" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" /></a>
+    </td>
+  </tr>
+</table>
 
 <!-- **************** RESOURCES *************** -->
 
