@@ -56,7 +56,7 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           # Starred topics
-          plugin_topics: yes
+          plugin_topics: no # disabled
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: stars
