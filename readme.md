@@ -94,9 +94,9 @@
 src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=doc&theme=dark&hide_border=true" />
 </a> -->
 
-<a href="https://github.com/JuanPabloDiaz/devMemes-RapidAPI">
+<a href="https://github.com/tech-conferences/conference-data">
 <img align="center" height="135" width="300"
-src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=devMemes-RapidAPI&theme=dark&hide_border=true" />
+src="https://github-readme-stats.vercel.app/api/pin/?username=tech-conferences&repo=conference-data&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/JuanPabloDiaz/freecodecamp">
 <img align="center" height="135" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" />
