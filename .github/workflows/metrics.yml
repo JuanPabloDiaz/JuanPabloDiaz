@@ -88,7 +88,7 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           # Featured Repositories
-          plugin_repositories: yes
+          plugin_repositories: no # disabled
           plugin_repositories_order: featured, pinned, starred, random
           # Achievements
           plugin_achievements: yes
