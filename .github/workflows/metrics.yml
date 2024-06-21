@@ -58,7 +58,7 @@ jobs:
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           # Recently Starred Repositories
-          plugin_stars: yes
+          plugin_stars: no # disabled
           plugin_stars_limit: 4
           # Coding Habits & Activity
           plugin_habits: yes
@@ -73,14 +73,14 @@ jobs:
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
           # Comments reactions
-          plugin_reactions: yes
+          plugin_reactions: no # disabled
           plugin_reactions_display: absolute
           plugin_reactions_limit: 200
           plugin_reactions_limit_discussions: 100
           plugin_reactions_limit_discussions_comments: 100
           plugin_reactions_limit_issues: 100
           # People
-          plugin_people: yes
+          plugin_people: no # disabled
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
