@@ -87,9 +87,10 @@
 <!-- <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanPabloDiaz&theme=high-contrast&hide_border=true" height="200em"/> -->
 <!-- </div> -->
 
-#### 📈 Metrics
-
+<details>
+<summary> More Metrics 📈</summary>
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+</details>
 
 #### Top Repositories
 
