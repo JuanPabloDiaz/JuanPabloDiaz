@@ -1,108 +1,185 @@
-<div align="center">
-  <p>
-    <a href="https://github.com/JuanPabloDiaz">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=510&height=25&lines=Juan+Diaz" alt="Juan Diaz"/></a>
-  </p>
+<div id="top"></div>
 
-  <p>
-    <a href="https://github.com/JuanPabloDiaz">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=550&height=30&lines=Hello+there!;💻+I'm+a+passionate+Front+End+Developer+💻;🚀+Open+Source+Enthusiast+🚀;📚+Always+learning+new+things+📚;⚡+Happy+coding+⚡" alt="Juan's greetings"/></a>
-  </p>
-</div>
+<!--
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+-->
 
-<!-- How To Reach Me -->
+<!-- Editor de README.md
+
+https://pandao.github.io/editor.md/en.html
+https://www.notion.so/GitHub-Tools-Edit-readme-a55ee707b3914b88b9a92a7a104b3b6c
+
+ -->
+
+<!-- PROJECT LOGO -->
 <div align="center">
-  <!-- <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F1diazdev%2F1diazdev&label=VISITORS&labelColor=%23000&countColor=%230A0209" /> -->
-  <br>
-  <a href="https://www.jpdiaz.dev"><img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=vercel&logoColor=0A0209" alt="profile of Portfolio with username 1diazdev" /></a>
-  <a href="https://peerlist.io/1diazdev"><img src="https://img.shields.io/badge/peerlist-d5d5d5?style=for-the-badge&logo=peerlist&logoColor=0A0209" alt="profile of Peerlist with username 1diazdev" ></a>
-  <a href="https://www.linkedin.com/in/1diazdev/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username 1diazdev" /></a>
-  <a href="mailto:juan.diaz.rodriguez93@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Gmail of Juan Diaz i.e.   juan.diaz.rodriguez93@gmail.com" /></a>
-  <a href="https://twitter.com/1diazdev"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username 1diazdev" ></a>
-  <a href="https://dev.to/1diazdev"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username 1diazdev" /></a>
-  <a href="https://www.freecodecamp.org/1diazdev"><img src="https://img.shields.io/badge/freeCodeCamp-d5d5d5?style=for-the-badge&logo=freecodecamp&logoColor=0A0209" alt="profile of freeCodeCamp with username 1diazdev" /></a>
-  <a href="https://platzi.com/p/1diazdev/"><img src="https://img.shields.io/badge/Platzi-d5d5d5?style=for-the-badge&logo=platzi&logoColor=0A0209" alt="profile of Platzi with username 1diazdev" /></a>
-</div>
+  <a href="https://github.com/JuanPabloDiaz?tab=repositories">
+    <img src="images/logoNoBG_S.png"  width="200px" alt="Logo">
+  </a>
 
 <!-- # Hello 👋 -->
 
-<div align="center">
-
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> my name is Juan and I am a Front End developer
 
+<p align="justify">
+Passionate about full stack web dev, seeking startup for growth. Values discipline, loyalty, reliability, self-motivation. Enjoys learning new skills.</p>
 </div>
-
-<p align="justify">Front-End Developer obsessed with building beautiful and functional web experiences. Driven by a constant learning mindset and eager to contribute to a collaborative startup team.</p>
 
 <!-- ### 🎯 Some technologies I use: -->
-<div align="center">
 
-<h2 align="center">Skills</h2>
+<div align="justify">
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,next,ts,git,tailwind,sass,astro,vite,html,css)](https://jpdiaz.dev)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/whatis/whatis_html.asp)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/whatis/whatis_css.asp)
+[![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/whatis/whatis_js.asp)
+[![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://www.w3schools.com/nodejs/default.asp)
+[![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.w3schools.com/whatis/whatis_react.asp)
+[![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=Php&logoColor=white)](https://www.w3schools.com/php/default.asp)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffca28)](https://www.w3schools.com/python/default.asp)
+[![Vue.js](https://img.shields.io/badge/Vue-184D66?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)](https://www.w3schools.com/whatis/whatis_vue.asp)
+[![Angular](https://img.shields.io/badge/Angular-222?style=for-the-badge&logo=Angular&logoColor=DD0031)](https://www.w3schools.com/whatis/whatis_angularjs.asp)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-2F2625?style=for-the-badge&logo=Bootstrap&logoColor=7952B3)](https://www.w3schools.com/whatis/whatis_bootstrap.asp)
+[![JSON](https://img.shields.io/badge/Json-41454A?style=for-the-badge&logo=Json&logoColor=000)](https://www.w3schools.com/whatis/whatis_json.asp)
+[![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown&logoColor=FEFEFE)](https://www.w3schools.com/whatis/whatis_json.asp)
 
 </div>
-
 <hr>
 
- <a href="https://jpdiaz.dev">
-    <img align="right" src="assets/images/avatar.svg" width="300">
-  </a>
+<img align='right' src="https://media4.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif?cid=ecf05e47gzy4xfa4dq1asdzb0xd7hp4w5g4tr178bgnwyw0f&rid=giphy.gif&ct=g" width="200">
 
-<!-- ## About Me -->
+## About Me
 
-- 📆 I’m currently working on... Cool projects.
-- 🌱 I’m currently learning ... JavaScript frameworks.
-- 🤔 I’m looking for guidance in... Entering the front-end industry.
-- 👯 I’m looking to collaborate on... Open-source software I deeply value.
-- 🎮 I'm passionate about... Web Development & Never Stop Learning.
-💬 Ask me about... diving into open-source contributions.
-<!-- - 🤔 I’m looking for help with... front end. ⚡-->
+- 📱 I’m currently working in my official site... [jpdiaz.dev](https://jpdiaz.dev/)
+- 🌱 I’m currently learning at... [![](https://img.shields.io/badge/Platzi-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/)
 
-<a href="https://github.com/JuanPabloDiaz?tab=repositories">
-<img src="https://streak-stats.demolab.com?user=JuanPabloDiaz&theme=dark&hide_border=true" /></a>
+- 📆 I’m currently working on... ⚡HTML5 | ⚡CSS3 | ⚡Javascript | ⚡React
+- 👯 I’m looking to collaborate on a... Startup.
+- 🤔 I’m looking for help with... Front End.
+- 🎮 I'm passionate about... Web Development ⏳︎ NeverStopLearning.
+- 💬 Ask me about... Home-Lap & Front-End, HD, Platzi.
+- 📫 How to reach me...
+  [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/1diazdev/)
+  [![](https://img.shields.io/badge/@1diazdev-fff?style=for-the-badge&logo=Twitter&logoColor=1DA1F2)](https://www.twitter.com/1diazdev)
+  [![](https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=Mail.Ru&logoColor=06B6D4)](mailto:juan.diaz93@hotmail.com)
+- 🎓 My Certificates... [![](https://img.shields.io/badge/Platzi_Profile-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)](https://platzi.com/p/DiazJuan/)
 
-<!-- <a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&rank_icon=github" alt="Anurag's github stats" /></a> -->
+- 🚲 Hobbies: ... Home-Lab, learn something new on Platzi, cyclist & fitness.
 
-<table>
-  <tr>
-    <td><a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanPabloDiaz&theme=dark" height="220em" /></a></td>
-    <td><a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanPabloDiaz&exclude=Jupyter%20Notebook&theme=dark" height="220em" /></a></td>
-    <td><a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&theme=dark&hide=jupyter%20notebook,scss,ruby,shell,python&hide_border=true" height="220em" /></a></td>
-  </tr>
-</table>
+<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
 
-<table>
-  <tr>
-    <td><a href="https://github.com/JuanPabloDiaz"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=JuanPabloDiaz&limit=5&combine_all_yearly_contributions=true&theme=dark&hide_border=true&custom_title=Top%20Contributed%20Repo" height="200em" /></a>
-    </td>
-    <td><a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanPabloDiaz&theme=dark" height="180em" /></a>
-    </td>
-  </tr>
-</table>
+  <!--
+  icons...
+  https://gist.github.com/rxaviers/7360908
+  -->
+  <!-- THE PROJECTS -->
 
-<!-- <div align="center"> -->
-<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuanPabloDiaz&theme=dark" height="200em" /> -->
-<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuanPabloDiaz&exclude=Jupyter%20Notebook&theme=dark" height="200em" /> -->
-<!-- <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JuanPabloDiaz&theme=high-contrast&hide_border=true" height="200em"/> -->
-<!-- </div> -->
+## Projects 🚀
 
-#### Top Repositories
+<!-- ### Most Recent Projects 💥💥 -->
 
-<a href="https://github.com/JuanPabloDiaz/doc">
-<img align="center" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=doc&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/JuanPabloDiaz/freecodecamp">
-<img align="center" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" />
-</a>
+#### Home Server 💻 [Live Demo](https://pi.jpdiaz.dev) | :link: [Visit my GitHub repository](https://github.com/JuanPabloDiaz/SelfHosting-PiServer).
 
-<!-- **************** RESOURCES *************** -->
+<!-- Platzi -->
 
-<!--  - icons...  https://simpleicons.org/ | https://devicon.dev/ |   https://gist.github.com/rxaviers/7360908
-  - Company logos...    https://home.aveek.io/GitHub-Profile-Badges/
-  Github Generators....
-  https://gprm.itsvg.in/  |  https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+### Platzi Portfolio 💼
 
-  <!-- To generate the avatar >> https://designer.microsoft.com/image-creator?p=Funko+figure+of+%5Ban+activity+or+role%5D%2C+%5Bfemale+or+male%5D%2C+called+%5BName%5D%2C+wearing+a+%5Bspecific+clothes+and+glasses%5D%2C+%5Bspecific+hair%5D+and+has+%5Baccessories%5D.+Holding+a+%5Bsomething%5D.+The+Funko+is+displayed+inside+a+Funko+box+with+%5Btext%5D+text+and+%5Blogo%5D+logo+for+the+box%2C+allowing+visibility+of+the+figure%2C+typography%2C+3D+render -->
-  <!-- The Prompt I used to generate the avatar:
-   Funko figure of Developer, Male, called Juan Diaz, wearing glasses, Colombia Football Shirt and short, has hat facing forward with the text dev on it. Holding a laptop with the screen facing forward, the screen displays the text jpdiaz.dev. Waving of the hand with the other hand. The Funko is displayed with no background. it has a friendly smile. allowing visibility of the figure, typography, 3D render -->
+In this section, I will list a few projects and new skills that I am developing while studying at Platzi.com.
+
+<!-- REPOS THAT I NEED TO FIX -->
+
+![](https://img.shields.io/badge/Platzi_Repos-121f3d?style=for-the-badge&logo=Platzi&logoColor=98CA3F)
+[![](https://img.shields.io/badge/2021-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2021)
+[![](https://img.shields.io/badge/2022-222?style=for-the-badge)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022)
+
+- [2021 Repos:](https://github.com/JuanPabloDiaz/platzi/tree/main/2021) ✔️
+  - [Frontend Developer](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/frontendDeveloper) ✔️
+  - [Javascript](https://github.com/JuanPabloDiaz/platzi/tree/main/2021/jsBasico) ✔️
+  - [Git and Github](https://github.com/JuanPabloDiaz/hyperblog) ✔️
+- [2022 Repos:](https://github.com/JuanPabloDiaz/platzi/tree/main/2022) ✔️
+
+  - [Datacademy](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/datacademy) ✔️
+  - [HTML & CSS](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/definitivoHTMLyCSS) ✔️
+
+- [2023 Repos:](https://github.com/JuanPabloDiaz/platzi/tree/main/2023) ✔️
+
+<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
+
+### Other Cool Projects
+
+- 2021:
+  - [Mr Robot](https://juanpablodiaz.github.io/2021/mrRobot/) (Cool!) ✔️
+- 2023:
+  - [Matrix - ](https://juanpablodiaz.github.io/2023/matrix/) (Cool!) ✔️
+  - [QR code - 2023](https://juanpablodiaz.github.io/2023/text2qr/) (Cool!) ✔️
+      <!-- - [](https:///) -->
+    <!-- Certificates of challenges -->
+
+Projects in React
+
+- [Portfolio](https://portfolio-react-template-juanpablodiaz.vercel.app/) (Current Project) 🚧
+- [Pinterest-clone-react](https://pinterest-clone-react.vercel.app/)
+- [Portafolio TEMPLATE](https://portfolio-react-youtube.vercel.app/)
+  <!-- - [](https:///) -->
+
+### Platzi Challenges 🎲
+
+This section list some challenges I have participated in Platzi which require time and dedication along other skills.
+
+- [Datacademy 2022](https://deepnote.com/workspace/juandiaz-7746519b-662c-4b7c-b97f-9577567b2970/project/Proyecto-Datacademy-b6457371-4e49-4f83-96ab-1232331cf711/%2FdataProyect%2Ftemplate_proyecto_datacademy.ipynb) (on Deepnote) 📈 | [Certificate ](https://platzi.com/p/DiazJuan/curso/2681-datacademy/diploma/detalle/) | [Gold Certificate ](https://platzi.com/p/DiazJuan/curso/3105-datacademy-proyecto-2022/diploma/detalle/) ✔️
+
+- [Crea tu Primera Página web 2022 (repo)](https://github.com/JuanPabloDiaz/platzi/tree/main/2022/definitivoHTMLyCSS/web2022Challenges) 🌐 | [Certificate ](https://platzi.com/p/DiazJuan/curso/2940-primera-pagina-web-2022-diploma/diploma/detalle/) ✔️
+
+- [Crea tu Portafolio como Web Developer](https://platzi.com/blog/portafolio-web-2022/) 🎬 | [Certificate ](#) (Current Project) 🚧
+
+- Smart Crypto Investments 2022 📀 [Certificate ](https://platzi.com/p/DiazJuan/curso/2787-smart-crypto-investments/diploma/detalle/) ✔️
+
+  <!-- - [](https:///) -->
+
+  <!-- Certificates of challenges -->
+
+### Other Challenges 🎪
+
+This section list other front-end challenges in which I have participated. This are challenges from multiple sites such as [FrontEndMentor](http://frontendmentor.io/), [FrontEndPractice](https://www.frontendpractice.com/), [cssBattle](https://cssbattle.dev/), [CodeWars](https://www.codewars.com/), and others.
+
+- [QR code component - 2022](https://github.com/JuanPabloDiaz/front-endMentor_challenges) 📈
+- [Other challenge](#) 🌐
+
+    <!-- SCHOOL PROJECTS -->
+
+### School Portfolio 🏫
+
+This section list some of early projects while I was studing for my A.A.S in Web Technologies at CPCC. 2017-2020
+
+- [Portfolio (2018-20)](https://juanpablodiaz.github.io/) 🚧
+
+<!-- LOS QUE TIENEN EL ✔️ ==> YA LOS REVISE & ESTA DECENTE -->
+
+### Web-Page 🔰🌐
+
+- Since May 2023, [jpdiaz.dev](https://jpdiaz.dev/) is my official website. It is currently under construction 🚧
+- My Documentation website is [docs.jpdiaz.dev](https://docs.jpdiaz.dev/)
+
+<!-- ### Others 🎭
+
+```javascript
+const JuanDiaz = {
+  Root: "Bogota" | "Colombia",
+  code: [Javascript, HTML, CSS, Python],
+  tools: [React, Redux, Node, Storybook, Styled - Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+    Web: Platzi.com,
+  },
+  challenge: "I am doing the #100DaysOfCode challenge focused on Javascript",
+};
+``` -->
+
+  <!-- Path: "Charlotte" | "NC", -->
+
+<p align="right">(<a href="#top">👆 Top 👆</a>)</p>
