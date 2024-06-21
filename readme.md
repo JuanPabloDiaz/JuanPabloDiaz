@@ -32,7 +32,8 @@
 
 </div>
 
-<p align="justify">Front-End Developer obsessed with building beautiful and functional web experiences. Driven by a constant learning mindset and eager to contribute to a collaborative startup team.</p>
+<p align="justify">
+Passionate Junior Front End Developer: Seeking a startup for growth. Values discipline, loyalty, and reliability. Self-motivated learner, eager to acquire new skills. 💻</p>
 
 <!-- ### 🎯 Some technologies I use: -->
 <div align="center">
@@ -51,35 +52,32 @@
 
 <!-- ## About Me -->
 
-- 📆 I’m currently working on... Cool projects.
-- 🌱 I’m currently learning ... JavaScript frameworks.
-- 🤔 I’m looking for guidance in... Entering the front-end industry.
-- 👯 I’m looking to collaborate on... Open-source software I deeply value.
-- 🎮 I'm passionate about... Web Development & Never Stop Learning.
-💬 Ask me about... diving into open-source contributions.
-<!-- - 🤔 I’m looking for help with... front end. ⚡-->
+- 📆 I’m currently working on... My first Full Stack app with next.js
+- 🌱 I’m currently learning ... ⚡JS | ⚡React | ⚡Next.js
+<!-- - | ⚡Vue | ⚡Solid | ⚡Svelte -->
+- 🤔 I’m looking for guidance in... Breaking into the front-end development industry.
+- 👯 I’m looking to collaborate on... OSS that I used and understand.
+<!-- - 🤔 I’m looking for help with... front end. -->
+- 🎮 I'm passionate about... Web Development && Never Stop Learning.
+- 💬 Ask me about... My go to framework for Front End.
 
 <a href="https://github.com/JuanPabloDiaz?tab=repositories">
 <img src="https://streak-stats.demolab.com?user=JuanPabloDiaz&theme=dark&hide_border=true" /></a>
 
-<!-- <a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&rank_icon=github" alt="Anurag's github stats" /></a> -->
+<a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanPabloDiaz&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&rank_icon=github" alt="Anurag's github stats" /></a>
 
-<table>
-  <tr>
-    <td><a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanPabloDiaz&theme=dark" height="220em" /></a></td>
-    <td><a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanPabloDiaz&exclude=Jupyter%20Notebook&theme=dark" height="220em" /></a></td>
-    <td><a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&theme=dark&hide=jupyter%20notebook,scss,ruby,shell,python&hide_border=true" height="220em" /></a></td>
-  </tr>
-</table>
+<!-- table -->
 
-<table>
-  <tr>
-    <td><a href="https://github.com/JuanPabloDiaz"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=JuanPabloDiaz&limit=5&combine_all_yearly_contributions=true&theme=dark&hide_border=true&custom_title=Top%20Contributed%20Repo" height="200em" /></a>
-    </td>
-    <td><a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanPabloDiaz&theme=dark" height="180em" /></a>
-    </td>
-  </tr>
-</table>
+| <a href="https://github.com/JuanPabloDiaz/jpdiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanPabloDiaz&theme=dark" height="200em" /></a> | <a href="https://github.com/JuanPabloDiaz"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanPabloDiaz&exclude=Jupyter%20Notebook&theme=dark" height="200em" /></a> | <a href="https://github.com/JuanPabloDiaz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloDiaz&layout=compact&theme=dark&hide=jupyter%20notebook,scss,ruby,shell,python&hide_border=true" /></a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<a href="https://github.com/JuanPabloDiaz/jpdiaz">
+<img align="center" src="https://github-contributor-stats.vercel.app/api?username=JuanPabloDiaz&limit=5&combine_all_yearly_contributions=true&theme=dark&hide_border=true&custom_title=Top%20Contributed%20Repo" height="200em" />
+</a>
+
+<a href="https://github.com/JuanPabloDiaz">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanPabloDiaz&theme=dark" height="180em" />
+</a>
 
 <!-- <div align="center"> -->
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuanPabloDiaz&theme=dark" height="200em" /> -->
@@ -89,11 +87,11 @@
 
 #### Top Repositories
 
-<a href="https://github.com/JuanPabloDiaz/doc">
-<img align="center" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=doc&theme=dark&hide_border=true" />
+<a href="https://github.com/JuanPabloDiaz/jpdiaz">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=jpdiaz&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/JuanPabloDiaz/freecodecamp">
-<img align="center" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPabloDiaz&repo=freecodecamp&theme=dark&hide_border=true" />
 </a>
 
 <!-- **************** RESOURCES *************** -->
