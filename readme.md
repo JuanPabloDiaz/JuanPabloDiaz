@@ -15,10 +15,10 @@
   <!-- <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F1diazdev%2F1diazdev&label=VISITORS&labelColor=%23000&countColor=%230A0209" /> -->
   <br>
   <a href="https://www.jpdiaz.dev"><img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=vercel&logoColor=0A0209" alt="profile of Portfolio with username 1diazdev" /></a>
-  <a href="https://peerlist.io/1diazdev"><img src="https://img.shields.io/badge/peerlist-d5d5d5?style=for-the-badge&logo=peerlist&logoColor=0A0209" alt="profile of Peerlist with username 1diazdev" ></a>
   <a href="https://www.linkedin.com/in/1diazdev/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username 1diazdev" /></a>
+  <a href="https://peerlist.io/1diazdev"><img src="https://img.shields.io/badge/peerlist-d5d5d5?style=for-the-badge&logo=peerlist&logoColor=0A0209" alt="profile of Peerlist with username 1diazdev" ></a>
   <a href="mailto:juan.diaz.rodriguez93@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Gmail of Juan Diaz i.e.   juan.diaz.rodriguez93@gmail.com" /></a>
-  <a href="https://twitter.com/1diazdev"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username 1diazdev" ></a>
+  <a href="https://twitter.com/JuanDiaz_427"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username 1diazdev" ></a>
   <a href="https://dev.to/1diazdev"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username 1diazdev" /></a>
   <a href="https://www.freecodecamp.org/1diazdev"><img src="https://img.shields.io/badge/freeCodeCamp-d5d5d5?style=for-the-badge&logo=freecodecamp&logoColor=0A0209" alt="profile of freeCodeCamp with username 1diazdev" /></a>
   <a href="https://platzi.com/p/1diazdev/"><img src="https://img.shields.io/badge/Platzi-d5d5d5?style=for-the-badge&logo=platzi&logoColor=0A0209" alt="profile of Platzi with username 1diazdev" /></a>
@@ -39,7 +39,7 @@
 
 <h2 align="center">Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,next,ts,git,tailwind,sass,astro,vite,html,css)](https://jpdiaz.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,next,python,mysql,astro,git,tailwind,sass)](https://jpdiaz.dev)
 
 </div>
 
@@ -52,11 +52,11 @@
 <!-- ## About Me -->
 
 - 📆 I’m currently working on... Cool projects.
-- 🌱 I’m currently learning ... JavaScript frameworks.
 - 🤔 I’m looking for guidance in... Entering the front-end industry.
-- 👯 I’m looking to collaborate on... Open-source software I deeply value.
+- 👯 I’m looking to collaborate on... [UnityCatalog](https://github.com/unitycatalog/unitycatalog)
 - 🎮 I'm passionate about... Web Development & Never Stop Learning.
-💬 Ask me about... diving into open-source contributions.
+- 💬 Ask me about... my open-source journey.
+- 🌱 I’m currently learning ... ![](https://go-skill-icons.vercel.app/api/icons?i=python,mysql,spark,databricks)
 <!-- - 🤔 I’m looking for help with... front end. ⚡-->
 
 <a href="https://github.com/JuanPabloDiaz?tab=repositories">
