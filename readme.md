@@ -39,7 +39,7 @@
 
 <h2 align="center">Skills</h2>
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,react,next,astro,mysql,git,tailwind,sass)](https://jpdiaz.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,react,next,astro,mysql,jekyll,git,tailwind,sass)](https://jpdiaz.dev)
 
 </div>
 
@@ -56,7 +56,7 @@
 - 🤔 I’m looking for guidance in... Entering the front-end industry.
 - 🎮 I'm passionate about... Web Development & Never Stop Learning.
 - 💬 Ask me about... my open-source journey.
-- 🌱 I’m currently learning ... ![](https://go-skill-icons.vercel.app/api/icons?i=databricks,spark,unitycatalog,pandas,pytorch,mlflow,)
+- 🌱 I’m currently learning ... ![](https://go-skill-icons.vercel.app/api/icons?i=databricks,spark,unitycatalog,aws,azure,pandas,pytorch,mlflow,delta)
 <!-- - 🤔 I’m looking for help with... front end. ⚡-->
 
 <a href="https://github.com/JuanPabloDiaz?tab=repositories">
