@@ -41,6 +41,10 @@
 
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,react,next,astro,mysql,jekyll,git,tailwind,sass)](https://jpdiaz.dev)
 
+<h2 align="center">Focus</h2>
+
+![](https://go-skill-icons.vercel.app/api/icons?i=databricks,spark,unitycatalog,aws,azure,pandas,pytorch,mlflow,delta)
+
 </div>
 
 <hr>
@@ -56,8 +60,8 @@
 - 🤔 I’m looking for guidance in... Entering the front-end industry.
 - 🎮 I'm passionate about... Web Development & Never Stop Learning.
 - 💬 Ask me about... my open-source journey.
-- 🌱 I’m currently learning ... ![](https://go-skill-icons.vercel.app/api/icons?i=databricks,spark,unitycatalog,aws,azure,pandas,pytorch,mlflow,delta)
-<!-- - 🤔 I’m looking for help with... front end. ⚡-->
+  <!-- - 🌱 I’m currently learning ...  -->
+  <!-- - 🤔 I’m looking for help with... front end. ⚡-->
 
 <a href="https://github.com/JuanPabloDiaz?tab=repositories">
 <img src="https://streak-stats.demolab.com?user=JuanPabloDiaz&theme=dark&hide_border=true" /></a>
