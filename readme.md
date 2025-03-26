@@ -43,7 +43,7 @@
 
 <h2 align="center">Focus</h2>
 
-![](https://go-skill-icons.vercel.app/api/icons?i=databricks,spark,unitycatalog,aws,azure,pandas,pytorch,mlflow,delta)
+![](https://go-skill-icons.vercel.app/api/icons?i=databricks,spark,sparksql,unitycatalog,aws,azure,pandas,pytorch,mlflow,delta)
 
 </div>
 
