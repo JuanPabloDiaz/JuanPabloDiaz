@@ -6,7 +6,7 @@
 
   <p>
     <a href="https://github.com/JuanPabloDiaz">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=550&height=30&lines=Hello+there!;💻+I'm+a+passionate+Front+End+Developer+💻;🚀+Open+Source+Enthusiast+🚀;📚+Always+learning+new+things+📚;⚡+Happy+coding+⚡" alt="Juan's greetings"/></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=550&height=30&lines=Hello+there!;💻+I'm+a+passionate+Full+Stack+Developer+💻;🚀+Open+Source+Enthusiast+🚀;📚+Always+learning+new+things+📚;⚡+Happy+coding+⚡" alt="Juan's greetings"/></a>
   </p>
 </div>
 
@@ -32,7 +32,7 @@
 
 </div>
 
-<p align="justify">Front-End Developer obsessed with building beautiful and functional web experiences. Driven by a constant learning mindset and eager to contribute to a collaborative startup team.</p>
+<p align="justify">Full Stack Developer obsessed with building beautiful and functional web experiences. Driven by a constant learning mindset and eager to contribute to a collaborative startup team.</p>
 
 <!-- ### 🎯 Some technologies I use: -->
 <div align="center">
