@@ -42,7 +42,7 @@ organizer leading Apache Spark meetups</p>
 
 <h2 align="center">Skills</h2>
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,python,react,next,astro,mysql,jekyll,git,tailwind,sass)](https://jpdiaz.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,next,astro,python,mysql,jekyll,git,tailwind,sass)](https://jpdiaz.dev)
 
 <h2 align="center">Focus</h2>
 
