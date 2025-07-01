@@ -59,12 +59,12 @@ organizer leading Apache Spark meetups</p>
 <!-- ## About Me -->
 
 - 👯 I’m looking to collaborate on... [UnityCatalog](https://github.com/unitycatalog/unitycatalog)
-- 📆 I’m currently working on... Cool projects.
-- 🤔 I’m looking for guidance in... Entering the front-end industry.
+- 📆 I’m currently working on... Full Stack projects.
+- 🤔 I’m looking for guidance in... Gen AI.
 - 🎮 I'm passionate about... Web Development & Never Stop Learning.
 - 💬 Ask me about... my open-source journey.
   <!-- - 🌱 I’m currently learning ...  -->
-  <!-- - 🤔 I’m looking for help with... front end. ⚡-->
+  <!-- - 🤔 I’m looking for help with... . ⚡-->
 
 <a href="https://github.com/JuanPabloDiaz?tab=repositories">
 <img src="https://streak-stats.demolab.com?user=JuanPabloDiaz&theme=dark&hide_border=true" /></a>
