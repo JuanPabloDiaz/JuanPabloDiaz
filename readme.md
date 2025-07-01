@@ -33,7 +33,9 @@
 
 </div>
 
-<p align="justify">Full Stack Developer obsessed with building beautiful and functional web experiences. Driven by a constant learning mindset and eager to contribute to a collaborative startup team.</p>
+<p align="justify">Full Stack developer advancing into data engineering. Databricks MVP pursuing Data Engineer Professional 
+certification, certified with Generative AI expertise. Open-source maintainer, tech content creator, and community 
+organizer leading Apache Spark meetups</p>
 
 <!-- ### 🎯 Some technologies I use: -->
 <div align="center">
